@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bitácora Financiera</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink:#151b12; --paper:#eef0e6; --paper-2:#e4e7da;
+    --rule:#c9ccb9; --moss-deep:#26401f; --rust:#a6552b; --muted:#5c6152;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--paper);color:var(--ink);font-family:'IBM Plex Sans',sans-serif;-webkit-font-smoothing:antialiased;}
+  a{color:inherit;}
+  img{display:block;width:100%;object-fit:cover;background:var(--paper-2);}
+
+  .masthead{max-width:1180px;margin:0 auto;padding:32px 24px 16px;border-bottom:3px solid var(--ink);display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:8px;}
+  .wordmark{font-family:'Fraunces',serif;font-weight:700;font-size:40px;letter-spacing:-0.01em;margin:0;}
+  .meta{font-family:'IBM Plex Mono',monospace;font-size:12.5px;color:var(--muted);text-align:right;}
+
+  .countries{max-width:1180px;margin:0 auto;padding:16px 24px 0;display:flex;gap:10px;flex-wrap:wrap;}
+  .country-card{display:flex;align-items:center;gap:8px;padding:8px 14px 8px 8px;background:var(--paper-2);border:1px solid var(--rule);text-decoration:none;color:var(--ink);font-size:13.5px;font-weight:500;}
+  .country-card:hover{background:#fff;}
+  .country-card svg{width:24px;height:16px;flex-shrink:0;}
+
+  .status{max-width:1180px;margin:14px auto 0;padding:12px 24px;background:var(--moss-deep);color:var(--paper);font-size:13px;font-family:'IBM Plex Mono',monospace;}
+
+  section.zone{max-width:1180px;margin:0 auto;padding:28px 24px;border-top:1px solid var(--rule);}
+  .zone-title{font-family:'Fraunces',serif;font-size:24px;font-weight:600;margin:0 0 18px;}
+
+  .hero{display:grid;grid-template-columns:1.3fr 1fr;gap:28px;margin-bottom:28px;}
+  .hero img{aspect-ratio:16/10;}
+  .hero-headline{font-family:'Fraunces',serif;font-size:32px;font-weight:600;line-height:1.15;margin:14px 0 10px;}
+  .hero-headline a{text-decoration:none;}
+  .hero-headline a:hover{text-decoration:underline;}
+
+  .grid{display:grid;grid-template-columns:repeat(3,1fr);gap:24px;}
+  .card{border-top:1px solid var(--rule);padding-top:12px;}
+  .card img{aspect-ratio:16/10;margin-bottom:10px;}
+  .card-headline{font-family:'Fraunces',serif;font-size:17px;font-weight:500;line-height:1.3;margin:0 0 6px;}
+  .card-headline a{text-decoration:none;}
+  .card-headline a:hover{text-decoration:underline;}
+  .card-source{font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--rust);}
+  .no-image{aspect-ratio:16/10;display:flex;align-items:center;justify-content:center;font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--muted);}
+
+  .empty{font-style:italic;color:var(--muted);font-size:14px;padding:10px 0;}
+  .back-link{font-family:'IBM Plex Mono',monospace;font-size:12px;color:var(--muted);text-decoration:none;display:inline-block;margin-bottom:14px;}
+
+  footer{max-width:1180px;margin:0 auto;padding:20px 24px 60px;font-size:12.5px;color:var(--muted);border-top:1px solid var(--rule);}
+
+  @media(max-width:900px){
+    .hero{grid-template-columns:1fr;}
+    .grid{grid-template-columns:1fr 1fr;}
+  }
+  @media(max-width:600px){
+    .grid{grid-template-columns:1fr;}
+    .wordmark{font-size:30px;}
+  }
+</style>
+</head>
+<body>
+
+  <div class="masthead" id="top">
+    <h1 class="wordmark">Bitácora Financiera</h1>
+    <div class="meta" id="clock"></div>
+  </div>
+
+  <div class="countries" id="countries"></div>
+  <div class="status" id="status">Cargando datos…</div>
+
+  <main id="main"></main>
+
+  <footer>
+    Generado automáticamente a partir de RSS públicos de cada medio. El titular es siempre un link directo a la nota original — este portal no reproduce el contenido, solo lo indexa. Si una fuente no aparece, su feed puede haber cambiado; revisa <code>scripts/fetch_news.py</code>.
+  </footer>
+
+<script>
+  const SECTION_LABELS = {
+    global: "Global & Bancos Centrales",
+    wallstreet: "Wall Street & EE. UU.",
+    fintech: "Fintech, Cripto & Empresas",
+    mexico: "México",
+    guatemala: "Guatemala",
+    elsalvador: "El Salvador",
+  };
+  const COUNTRY_SECTIONS = ["mexico", "guatemala", "elsalvador"];
+  const FLAGS = {
+    mexico: ['#006341', '#fff', '#ce1126'],
+    guatemala: ['#4997D0', '#fff', '#4997D0'],
+    elsalvador: ['#0047AB', '#fff', '#0047AB'],
+  };
+
+  function flagSvg(key){
+    const [a,b,c] = FLAGS[key];
+    return `<svg viewBox="0 0 3 2" aria-hidden="true"><rect width="1" height="2" x="0" fill="${a}"/><rect width="1" height="2" x="1" fill="${b}"/><rect width="1" height="2" x="2" fill="${c}"/></svg>`;
+  }
+
+  function tick(){
+    const now = new Date();
+    document.getElementById('clock').textContent =
+      now.toLocaleDateString('es-MX', {weekday:'long', day:'numeric', month:'long'}) + ' · ' +
+      now.toLocaleTimeString('es-MX', {hour:'2-digit', minute:'2-digit'});
+  }
+  tick(); setInterval(tick, 30000);
+
+  function cardHtml(story){
+    const img = story.image
+      ? `<img src="${story.image}" alt="" loading="lazy" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'no-image',textContent:'sin imagen'}))">`
+      : `<div class="no-image">sin imagen</div>`;
+    return `
+      <div class="card">
+        ${img}
+        <div class="card-source">${story.source || ''}</div>
+        <h3 class="card-headline"><a href="${story.link}" target="_blank" rel="noopener">${story.title}</a></h3>
+      </div>`;
+  }
+
+  function heroHtml(story){
+    const img = story.image
+      ? `<img src="${story.image}" alt="" loading="lazy">`
+      : `<div class="no-image">sin imagen</div>`;
+    return `
+      <div class="hero">
+        <a href="${story.link}" target="_blank" rel="noopener">${img}</a>
+        <div>
+          <div class="card-source">${story.source || ''}</div>
+          <h2 class="hero-headline"><a href="${story.link}" target="_blank" rel="noopener">${story.title}</a></h2>
+        </div>
+      </div>`;
+  }
+
+  function renderZone(key, stories, isCountry){
+    const label = SECTION_LABELS[key] || key;
+    let inner = '';
+    if (!stories || stories.length === 0){
+      inner = `<p class="empty">Sin notas todavía para esta sección — se llenará en la próxima corrida automática.</p>`;
+    } else if (!isCountry){
+      const [first, ...rest] = stories;
+      inner = heroHtml(first) + `<div class="grid">${rest.slice(0,6).map(cardHtml).join('')}</div>`;
+    } else {
+      inner = `<div class="grid">${stories.slice(0,9).map(cardHtml).join('')}</div>`;
+    }
+    const anchor = isCountry ? ` id="${key}"` : '';
+    const back = isCountry ? `<a class="back-link" href="#top">↑ volver arriba</a>` : '';
+    return `<section class="zone"${anchor}><h2 class="zone-title">${label}</h2>${back}${inner}</section>`;
+  }
+
+  fetch('data/news.json?_=' + Date.now())
+    .then(r => { if(!r.ok) throw new Error('no data yet'); return r.json(); })
+    .then(data => {
+      document.getElementById('status').textContent =
+        'Última actualización automática: ' + new Date(data.generated_at).toLocaleString('es-MX');
+
+      const countriesNav = COUNTRY_SECTIONS
+        .map(k => `<a class="country-card" href="#${k}">${flagSvg(k)}<span>${SECTION_LABELS[k]}</span></a>`)
+        .join('');
+      document.getElementById('countries').innerHTML = countriesNav;
+
+      const order = ['global','wallstreet','fintech','mexico','guatemala','elsalvador'];
+      const main = document.getElementById('main');
+      main.innerHTML = order
+        .map(key => renderZone(key, data.sections[key], COUNTRY_SECTIONS.includes(key)))
+        .join('');
+    })
+    .catch(() => {
+      document.getElementById('status').textContent =
+        '⚠ Aún no existe docs/data/news.json — corre scripts/fetch_news.py (localmente o vía GitHub Actions) para generar la primera versión.';
+    });
+</script>
+</body>
+</html>
