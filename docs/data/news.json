@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-09-02T00:00:00+00:00",
+  "sections": {
+    "global": [
+      {"title": "[EJEMPLO] Así se verá un titular real una vez que corra la automatización", "link": "#", "image": "https://picsum.photos/seed/global1/900/560", "source": "DEMO", "published": null},
+      {"title": "[EJEMPLO] Nota secundaria de la sección Global", "link": "#", "image": "https://picsum.photos/seed/global2/600/375", "source": "DEMO", "published": null},
+      {"title": "[EJEMPLO] Otra nota de ejemplo con imagen", "link": "#", "image": "https://picsum.photos/seed/global3/600/375", "source": "DEMO", "published": null},
+      {"title": "[EJEMPLO] Nota sin imagen disponible", "link": "#", "image": null, "source": "DEMO", "published": null}
+    ],
+    "wallstreet": [
+      {"title": "[EJEMPLO] Titular de Wall Street", "link": "#", "image": "https://picsum.photos/seed/ws1/900/560", "source": "DEMO", "published": null}
+    ],
+    "fintech": [
+      {"title": "[EJEMPLO] Titular de Fintech y Cripto", "link": "#", "image": "https://picsum.photos/seed/ft1/900/560", "source": "DEMO", "published": null}
+    ],
+    "mexico": [
+      {"title": "[EJEMPLO] Nota de México 1", "link": "#", "image": "https://picsum.photos/seed/mx1/600/375", "source": "DEMO", "published": null},
+      {"title": "[EJEMPLO] Nota de México 2", "link": "#", "image": "https://picsum.photos/seed/mx2/600/375", "source": "DEMO", "published": null}
+    ],
+    "guatemala": [
+      {"title": "[EJEMPLO] Nota de Guatemala 1", "link": "#", "image": "https://picsum.photos/seed/gt1/600/375", "source": "DEMO", "published": null},
+      {"title": "[EJEMPLO] Nota de Guatemala 2", "link": "#", "image": "https://picsum.photos/seed/gt2/600/375", "source": "DEMO", "published": null}
+    ],
+    "elsalvador": [
+      {"title": "[EJEMPLO] Nota de El Salvador 1", "link": "#", "image": "https://picsum.photos/seed/sv1/600/375", "source": "DEMO", "published": null}
+    ]
+  }
+}
