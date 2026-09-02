@@ -1,28 +1,535 @@
 {
-  "generated_at": "2026-09-02T00:00:00+00:00",
+  "generated_at": "2026-09-02T13:38:23.950136+00:00",
   "sections": {
     "global": [
-      {"title": "[EJEMPLO] Así se verá un titular real una vez que corra la automatización", "link": "#", "image": "https://picsum.photos/seed/global1/900/560", "source": "DEMO", "published": null},
-      {"title": "[EJEMPLO] Nota secundaria de la sección Global", "link": "#", "image": "https://picsum.photos/seed/global2/600/375", "source": "DEMO", "published": null},
-      {"title": "[EJEMPLO] Otra nota de ejemplo con imagen", "link": "#", "image": "https://picsum.photos/seed/global3/600/375", "source": "DEMO", "published": null},
-      {"title": "[EJEMPLO] Nota sin imagen disponible", "link": "#", "image": null, "source": "DEMO", "published": null}
+      {
+        "title": "India Raises Record $127 Billion in Forex Deposits From Diaspora",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-02/india-raises-record-127-billion-in-forex-deposits-from-diaspora",
+        "image": null,
+        "source": "Bloomberg Markets",
+        "published": "2026-09-02T12:50:21+00:00"
+      },
+      {
+        "title": "Venezuelan Oil Replenishing US SPR a ‘Pure Fantasy,’ Says Stephen Schork",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-02/venezuelan-oil-replenishing-spr-a-pure-fantasy-schork-video",
+        "image": null,
+        "source": "Bloomberg Markets",
+        "published": "2026-09-02T12:49:41+00:00"
+      },
+      {
+        "title": "College M&A Tool Helps Schools Connect in Grim Higher Ed Era",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-02/college-m-a-tool-helps-schools-connect-in-brutal-higher-ed-era",
+        "image": null,
+        "source": "Bloomberg Markets",
+        "published": "2026-09-02T12:45:00+00:00"
+      },
+      {
+        "title": "Corn Drops Most in Three Weeks as Profit-Taking Hits Grain Rally",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-02/corn-drops-most-in-three-weeks-as-profit-taking-hits-grain-rally",
+        "image": null,
+        "source": "Bloomberg Markets",
+        "published": "2026-09-02T04:08:15+00:00"
+      },
+      {
+        "title": "Stocks, Bonds Steady as Oil Halts War-Fueled Rally: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-01/stock-market-today-dow-s-p-live-updates",
+        "image": null,
+        "source": "Bloomberg Markets",
+        "published": "2026-09-01T22:07:33+00:00"
+      },
+      {
+        "title": "Latest Oil Market News and Analysis for Sept. 2",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-01/latest-oil-market-news-and-analysis-for-sept-2",
+        "image": null,
+        "source": "Bloomberg Markets",
+        "published": "2026-09-01T22:04:01+00:00"
+      },
+      {
+        "title": "Europe’s bond markets are suffering a post-holiday shock",
+        "link": "https://www.economist.com/finance-and-economics/2026/09/01/europes-bond-markets-are-suffering-a-post-holiday-shock",
+        "image": null,
+        "source": "The Economist — Finance",
+        "published": "2026-09-01T21:58:14+00:00"
+      },
+      {
+        "title": "IPO booms can spell trouble for the markets",
+        "link": "https://www.economist.com/finance-and-economics/2026/09/01/ipo-booms-can-spell-trouble-for-the-markets",
+        "image": null,
+        "source": "The Economist — Finance",
+        "published": "2026-09-01T19:03:06+00:00"
+      },
+      {
+        "title": "The extraordinary rise of Miami’s economy",
+        "link": "https://www.economist.com/finance-and-economics/2026/08/31/the-extraordinary-rise-of-miamis-economy",
+        "image": null,
+        "source": "The Economist — Finance",
+        "published": "2026-08-31T17:01:41+00:00"
+      },
+      {
+        "title": "Kevin Warsh tries being a normal central banker",
+        "link": "https://www.economist.com/finance-and-economics/2026/08/28/kevin-warsh-tries-being-a-normal-central-banker",
+        "image": null,
+        "source": "The Economist — Finance",
+        "published": "2026-08-28T17:02:18+00:00"
+      },
+      {
+        "title": "The economic costs of Donald Trump’s immigration crackdown",
+        "link": "https://www.economist.com/finance-and-economics/2026/08/27/the-economic-costs-of-donald-trumps-immigration-crackdown",
+        "image": null,
+        "source": "The Economist — Finance",
+        "published": "2026-08-27T09:49:05+00:00"
+      },
+      {
+        "title": "Scott Bessent takes on the bond market",
+        "link": "https://www.economist.com/finance-and-economics/2026/08/27/scott-bessent-takes-on-the-bond-market",
+        "image": null,
+        "source": "The Economist — Finance",
+        "published": "2026-08-27T09:13:40+00:00"
+      }
     ],
     "wallstreet": [
-      {"title": "[EJEMPLO] Titular de Wall Street", "link": "#", "image": "https://picsum.photos/seed/ws1/900/560", "source": "DEMO", "published": null}
+      {
+        "title": "U.S. businesses created the fewest new jobs in 7 months, ADP says. Hiring slowed in the summer.",
+        "link": "https://www.marketwatch.com/story/adp-says-businesses-create-the-fewest-new-jobs-in-7-months-hiring-slowed-in-the-summer-59291cd9?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-55682365",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-02T13:26:00+00:00"
+      },
+      {
+        "title": "We’re in our 60s. My wife and I have $345,000 in annual pensions and $1 million in 403(b)s. Is it too late for Roth conversions?",
+        "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-73906186",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-02T13:15:00+00:00"
+      },
+      {
+        "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+        "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-48497737",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-02T13:00:00+00:00"
+      },
+      {
+        "title": "America’s renter generation is trying to build wealth by investing in stocks instead of owning a house",
+        "link": "https://www.marketwatch.com/story/americas-renter-generation-is-trying-to-build-wealth-by-investing-in-stocks-instead-of-owning-a-house-c2f91799?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-44967659",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-02T12:40:00+00:00"
+      },
+      {
+        "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
+        "link": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-61045848",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-02T12:32:00+00:00"
+      },
+      {
+        "title": "How these homeowners pulled off buying a house in their early 20s",
+        "link": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-84214823",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-02T12:32:00+00:00"
+      },
+      {
+        "title": "Stan Kroenke agrees to buy MLB's Angels, valuing team and regional network at $4 billion",
+        "link": "https://www.cnbc.com/2026/09/01/stan-kroenke-controlling-stake-los-angeles-angels.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-01T21:40:30+00:00"
+      },
+      {
+        "title": "How one of the largest investors in student housing is playing this school year",
+        "link": "https://www.cnbc.com/2026/09/01/university-student-housing-investor.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-01T16:36:55+00:00"
+      },
+      {
+        "title": "Livestream shopping is gaining steam in the U.S., thanks to apps like TikTok and Whatnot",
+        "link": "https://www.cnbc.com/2026/09/01/tiktok-whatnot-livestream-shopping.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-01T13:40:48+00:00"
+      },
+      {
+        "title": "OneRail launches AI platform with Nvidia for retailers to make faster delivery decisions",
+        "link": "https://www.cnbc.com/2026/09/01/onerail-nvidia-ai-delivery-platform.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-01T12:50:57+00:00"
+      },
+      {
+        "title": "Toyota's hybrid RAV4 is in demand as dealers wait for more supply",
+        "link": "https://www.cnbc.com/2026/09/01/toyota-rav4-dealer-inventory.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-01T12:00:01+00:00"
+      },
+      {
+        "title": "Mortgage rates surge to the highest since June 2025 as new Middle East attacks push oil prices up",
+        "link": "https://www.cnbc.com/2026/08/31/mortgage-rates-surge-middle-east-attacks-oil.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-08-31T18:53:36+00:00"
+      },
+      {
+        "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+        "image": null,
+        "source": "WSJ Markets",
+        "published": "2025-01-27T19:26:00+00:00"
+      },
+      {
+        "title": "Comex Gold, Silver Settle Lower",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+        "image": null,
+        "source": "WSJ Markets",
+        "published": "2025-01-27T19:01:00+00:00"
+      },
+      {
+        "title": "DeepSeek Won't Sink U.S. AI Titans",
+        "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+        "image": null,
+        "source": "WSJ Markets",
+        "published": "2025-01-27T18:12:00+00:00"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk",
+        "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+        "image": null,
+        "source": "WSJ Markets",
+        "published": "2025-01-27T17:27:00+00:00"
+      },
+      {
+        "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+        "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+        "image": null,
+        "source": "WSJ Markets",
+        "published": "2025-01-27T17:20:00+00:00"
+      },
+      {
+        "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+        "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+        "image": null,
+        "source": "WSJ Markets",
+        "published": "2025-01-27T14:55:00+00:00"
+      }
     ],
     "fintech": [
-      {"title": "[EJEMPLO] Titular de Fintech y Cripto", "link": "#", "image": "https://picsum.photos/seed/ft1/900/560", "source": "DEMO", "published": null}
+      {
+        "title": "New Tampa Bay Rays Ballpark Closer Than Ever After Decades Of Check Swings",
+        "link": "https://www.forbes.com/sites/tomlayberger/2026/09/02/new-tampa-bay-rays-ballpark-closer-than-ever-after-decades-of-check-swings/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a980f960394765150d0230b/0x0.jpg?width=960",
+        "source": "Forbes Business",
+        "published": "2026-09-02T12:32:41+00:00"
+      },
+      {
+        "title": "Kylie Minogue Charts Her Second New No. 1 Hit In Less Than A Month",
+        "link": "https://www.forbes.com/sites/hughmcintyre/2026/09/03/kylie-minogue-charts-her-second-new-no-1-hit-in-less-than-a-month/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a96de2875219674d6a4eab2/0x0.jpg?width=960&precrop=2326%2C1309%2Cx0%2Cy949",
+        "source": "Forbes Business",
+        "published": "2026-09-02T12:00:00+00:00"
+      },
+      {
+        "title": "As Consumers Travel For Experiences, Destination Retail Is Becoming Part Of The Journey",
+        "link": "https://www.forbes.com/sites/katehardcastle/2026/09/02/as-consumers-travel-for-experiences-destination-retail-is-becoming-part-of-the-journey/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a980956468fe99355216fdd/0x0.jpg",
+        "source": "Forbes Business",
+        "published": "2026-09-02T11:54:26+00:00"
+      },
+      {
+        "title": "On The Court Storylines To Watch As The Professional Pickleball Association Kicks Off The 2026-27 Season",
+        "link": "https://www.forbes.com/sites/toddboss/2026/09/02/on-the-court-storylines-to-watch-as-the-professional-pickleball-association-kicks-off-the-2026-27-season/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a98033cb257bda0599b4a81/0x0.jpg",
+        "source": "Forbes Business",
+        "published": "2026-09-02T11:12:36+00:00"
+      },
+      {
+        "title": "Yankees’ $218 Million Ace Raises Injury Setback Concern",
+        "link": "https://www.forbes.com/sites/peterchawaga/2026/09/02/yankees-218-million-ace-raises-injury-setback-concern/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a96e596060c819959f063df/0x0.jpg?width=960&precrop=1492%2C840%2Cx662%2Cy13",
+        "source": "Forbes Business",
+        "published": "2026-09-02T11:00:00+00:00"
+      },
+      {
+        "title": "Extreme Heat Expected On 1st Full Weekend Of College Football",
+        "link": "https://www.forbes.com/sites/marshallshepherd/2026/09/02/extreme-heat-expected-on-1st-full-weekend-of-college-football/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6a97f17eb460e8be2df6dabf/0x0.jpg?width=960",
+        "source": "Forbes Business",
+        "published": "2026-09-02T10:42:35+00:00"
+      },
+      {
+        "title": "Navigating the Future of International Trade",
+        "link": "https://gfmag.com/transaction-banking/navigating-the-future-of-international-trade/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-09-02T09:24:05+00:00"
+      },
+      {
+        "title": "Bank of America VP Killed in Times Square Stabbing",
+        "link": "https://gfmag.com/banking/bank-of-america-vp-killed-times-square-stabbing/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-09-01T19:20:40+00:00"
+      },
+      {
+        "title": "Are ‘D-Day’ Sanctions a Bridge Too Far or Not Far Enough?",
+        "link": "https://gfmag.com/economics-policy-regulation/us-iran-d-day-sanctions/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-08-28T06:00:00+00:00"
+      },
+      {
+        "title": "Why Most Banks Are Losing the AI Search War",
+        "link": "https://gfmag.com/technology/banks-losing-ai-search-war/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-08-27T06:00:00+00:00"
+      },
+      {
+        "title": "AI and Lenders: Who’s Liable When LLMs Err?",
+        "link": "https://gfmag.com/private-credit/ai-and-lenders-whos-liable-if-llms-err/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-08-26T06:00:00+00:00"
+      },
+      {
+        "title": "Worldpay Deal Anchors Fintech’s Best Half in Years: KPMG",
+        "link": "https://gfmag.com/technology/worldpay-deal-anchors-fintechs-best-half-in-years-kpmg/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-08-25T06:00:00+00:00"
+      },
+      {
+        "title": "Denny’s rival dining chain files for Chapter 11 bankruptcy",
+        "link": "https://finance.yahoo.com/small-business/articles/denny-rival-dining-chain-files-153300154.html",
+        "image": "https://media.zenfs.com/en/thestreet_881/d00c84f7209ad2fcb7973604023f2bb6.jpg",
+        "source": "Yahoo Finance",
+        "published": null
+      },
+      {
+        "title": "Mortgage and refinance rates today, Wednesday, September 2, 2026: Rates up double digits as Iran war reescalates",
+        "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-and-refinance-rates-today-wednesday-september-2-2026-rates-up-double-digits-as-iran-war-reescalates-100000964.html",
+        "image": "https://s.yimg.com/os/creatr-uploaded-images/2024-04/58d84be0-fc1f-11ee-bffb-9ac8a2f8fca0",
+        "source": "Yahoo Finance",
+        "published": null
+      },
+      {
+        "title": "Ecommerce Evolution: Shopify’s (SHOP) AI-Driven Approach to Retail Success",
+        "link": "https://finance.yahoo.com/technology/ai/articles/ecommerce-evolution-shopify-shop-ai-131924519.html",
+        "image": "https://media.zenfs.com/en/insidermonkey.com/0351fde86bca3fe950b4ff1d0e8b9f7b.jpg",
+        "source": "Yahoo Finance",
+        "published": null
+      },
+      {
+        "title": "Stock market today: Dow, S&P 500, Nasdaq futures mixed as US-Iran war escalates, inflation jitters return",
+        "link": "https://finance.yahoo.com/markets/live/stock-market-today-wednesday-september-2-dow-sp-500-nasdaq-082624175.html",
+        "image": "https://s.yimg.com/uu/api/res/1.2/alXb2zHq92Q_1MwbHPhOuA--~B/aD0yMDEzO3c9MzAxOTthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-09/66d35c48-9d25-4050-b07e-61cd5731f4b2",
+        "source": "Yahoo Finance",
+        "published": null
+      },
+      {
+        "title": "Navigating Spotify Technology S.A.’s (SPOT) AI Transformation and Revenue Growth Strategies",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/navigating-spotify-technology-spot-ai-131634467.html",
+        "image": "https://media.zenfs.com/en/insidermonkey.com/2825e93123661ee897128b3440ef7e2b.jpg",
+        "source": "Yahoo Finance",
+        "published": null
+      },
+      {
+        "title": "Costco shuts down a key service with no notice",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/costco-shuts-down-key-no-011218190.html",
+        "image": "https://media.zenfs.com/en/thestreet_881/e2348a4085f45d93c7c63cca10a434cf.jpg",
+        "source": "Yahoo Finance",
+        "published": null
+      }
     ],
     "mexico": [
-      {"title": "[EJEMPLO] Nota de México 1", "link": "#", "image": "https://picsum.photos/seed/mx1/600/375", "source": "DEMO", "published": null},
-      {"title": "[EJEMPLO] Nota de México 2", "link": "#", "image": "https://picsum.photos/seed/mx2/600/375", "source": "DEMO", "published": null}
+      {
+        "title": "Del seguro de vida al “seguro para vivir”: el nuevo imperativo de la industria",
+        "link": "https://expansion.mx/opinion/2026/09/02/del-seguro-de-vida-al-seguro-para-vivir-el-nuevo-imperativo-de-la-industria",
+        "image": "https://cdn-3.expansion.mx/dims4/default/5812a68/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2013%2F08%2F10%2Fapptelefono.jpg",
+        "source": "Expansión",
+        "published": "2026-09-02T12:06:57+00:00"
+      },
+      {
+        "title": "Populistas vs Organizaciones internacionales: ¿Por qué la tensión? Un dilema crítico de gobernanza global contemporánea",
+        "link": "https://expansion.mx/opinion/2026/09/02/populistas-vs-organizaciones-internacionales-por-que-la-tension-un-dilema-critico-de-gobernanza-global-contemporanea",
+        "image": "https://cdn-3.expansion.mx/dims4/default/b566a26/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F84%2F4d%2F5ef3aa7d4c63a6ecf715e398f551%2F98.DAILY-Web-defiende_Israel.jpg",
+        "source": "Expansión",
+        "published": "2026-09-02T11:59:38+00:00"
+      },
+      {
+        "title": "México debe reducir el déficit para blindar su grado de inversión en 2027",
+        "link": "https://expansion.mx/economia/2026/09/02/paquete-economico-2027-grado-inversion-mexico",
+        "image": "https://cdn-3.expansion.mx/dims4/default/cc10b08/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fda%2F30%2F76bd49944b5c8ee2e8022e57e5bd%2Fpaquete-economico-2027.jpeg",
+        "source": "Expansión",
+        "published": "2026-09-02T11:55:11+00:00"
+      },
+      {
+        "title": "Estos son los modelos de celulares que se quedarán sin WhatsApp en septiembre de 2026",
+        "link": "https://expansion.mx/tecnologia/2026/09/01/modelos-celulares-sin-whatsapp-septiembre-2026",
+        "image": "https://cdn-3.expansion.mx/dims4/default/b53358e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fdf%2F46%2Fca79b66f4019b8179cc2ca6c2ae9%2Finstagram-jucio-adiccion-redes-sociales.jpg",
+        "source": "Expansión",
+        "published": "2026-09-02T01:03:20+00:00"
+      },
+      {
+        "title": "Contenido nacional impulsa el acero local, pero alivio real exige bajar aranceles de Estados Unidos",
+        "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
+        "image": "https://cdn-3.expansion.mx/dims4/default/ac505c0/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F64%2Fb2%2F8880baca4d4ca06d1294526d105a%2Fistock-1147790557.jpg",
+        "source": "Expansión",
+        "published": "2026-09-02T00:26:50+00:00"
+      },
+      {
+        "title": "A partir de esta fecha, Tailandia solicitará visa a turistas mexicanos: requisitos, precio y cómo tramitarla",
+        "link": "https://expansion.mx/mundo/2026/09/01/fecha-tailandia-visa-turistas-mexicanos-requisitos-tramitar",
+        "image": "https://cdn-3.expansion.mx/dims4/default/c9b26dd/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F56%2F2c%2Fa469082448d8998ffa23e5d6a853%2Fvisa-tailandia-visitantes-mexicanos.jpeg",
+        "source": "Expansión",
+        "published": "2026-09-01T23:52:25+00:00"
+      },
+      {
+        "title": "Tras conquistar las ventas de barrio, Tiendas 3B, Neto y Zorro van por los clientes de mayor poder adquisitivo",
+        "link": "https://expansion.mx/empresas/2026/09/01/tiendas-3b-neto-van-clientes-walmart",
+        "image": "https://cdn-3.expansion.mx/dims4/default/01430ed/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F24%2F1e%2F5b7c8c4f4c30867e72d36f1d4054%2F5-neto-1065341-tiendas-ricardo-salinas-pliego-web.jpeg",
+        "source": "Expansión",
+        "published": "2026-09-01T23:45:11+00:00"
+      },
+      {
+        "title": "Impuesto a comida chatarra tiene el pendiente de subir de 8 a 20%; organizaciones presionan para incrementar IEPS",
+        "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
+        "image": "https://cdn-3.expansion.mx/dims4/default/6d89b1a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F25%2Fca%2Fa3e98dd1465083c70b076498f216%2Fieps-comida-chatarra.jpeg",
+        "source": "Expansión",
+        "published": "2026-09-01T23:26:47+00:00"
+      }
     ],
     "guatemala": [
-      {"title": "[EJEMPLO] Nota de Guatemala 1", "link": "#", "image": "https://picsum.photos/seed/gt1/600/375", "source": "DEMO", "published": null},
-      {"title": "[EJEMPLO] Nota de Guatemala 2", "link": "#", "image": "https://picsum.photos/seed/gt2/600/375", "source": "DEMO", "published": null}
+      {
+        "title": "Granizo de más de seis pulgadas rompe récord en Illinois, según NOAA",
+        "link": "https://lahora.gt/internacionales/hbeteta/2026/09/02/granizo-de-mas-de-seis-pulgadas-rompe-record-en-illinois-segun-noaa-now/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-02T13:30:27+00:00"
+      },
+      {
+        "title": "¿Cuándo pueden cancelar una licencia de conducir en Guatemala? Estas son las causas",
+        "link": "https://lahora.gt/nacionales/hgodinez/2026/09/02/cuando-pueden-cancelar-una-licencia-de-conducir-en-guatemala-estas-son-las-causas/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-02T13:15:45+00:00"
+      },
+      {
+        "title": "Poste derribado y cables de alta tensión sobre el asfalto complican el tráfico en la ruta al Atlántico",
+        "link": "https://lahora.gt/nacionales/jcortega/2026/09/02/poste-derribado-y-cables-de-alta-tension-sobre-el-asfalto-complican-el-trafico-en-la-ruta-al-atlantico-now/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-02T13:10:00+00:00"
+      },
+      {
+        "title": "Oscar Conde compone medio siglo de vida",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/oscar-conde-compone-medio-siglo-de-vida/",
+        "image": null,
+        "source": "Diario de Centroamérica",
+        "published": "2026-09-02T12:00:00+00:00"
+      },
+      {
+        "title": "¿Amenaza para Guatemala? Esta es la trayectoria real del huracán Karina",
+        "link": "https://lahora.gt/nacionales/dleon/2026/09/02/amenaza-para-guatemala-esta-es-la-trayectoria-real-del-huracan-karina/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-02T11:30:36+00:00"
+      },
+      {
+        "title": "El Niño podría presionar la inflación, pero Guatemala tiene margen para absorber el impacto económico, según Banguat",
+        "link": "https://lahora.gt/lh-economia/esmith/2026/09/02/el-nino-podria-presionar-la-inflacion-pero-guatemala-tiene-margen-para-absorber-el-impacto-economico-segun-banguat-now/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-02T10:30:07+00:00"
+      },
+      {
+        "title": "Siete desaparecidos, cuatro camionetas y siete detenidos: las imágenes clave del secuestro en Malacatán",
+        "link": "https://lahora.gt/nacionales/sosegueda/2026/09/02/siete-desaparecidos-cuatro-camionetas-y-siete-detenidos-las-imagenes-clave-del-secuestro-en-malacatan-now/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-02T10:00:37+00:00"
+      },
+      {
+        "title": "CIV se alista para reactivar obras y fortalecer red vial",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/civ-se-alista-para-reactivar-obras-y-fortalecer-red-vial/",
+        "image": null,
+        "source": "Diario de Centroamérica",
+        "published": "2026-09-02T06:59:00+00:00"
+      },
+      {
+        "title": "Presidente destaca papel del Ejército en desarrollo nacional",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/presidente-destaca-papel-del-ejercito-en-desarrollo-nacional/",
+        "image": null,
+        "source": "Diario de Centroamérica",
+        "published": "2026-09-02T06:58:00+00:00"
+      },
+      {
+        "title": "Baja Verapaz se sumará a gobiernos departamentales",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/baja-verapaz-se-sumara-a-gobiernos-departamentales/",
+        "image": null,
+        "source": "Diario de Centroamérica",
+        "published": "2026-09-02T06:57:00+00:00"
+      },
+      {
+        "title": "“Incrementamos los grupos de trabajo y la maquinaria”",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/incrementamos-los-grupos-de-trabajo-y-la-maquinaria/",
+        "image": null,
+        "source": "Diario de Centroamérica",
+        "published": "2026-09-02T06:56:00+00:00"
+      },
+      {
+        "title": "Presidente sanciona ley del sistema portuario nacional",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/presidente-sanciona-ley-del-sistema-portuario-nacional/",
+        "image": null,
+        "source": "Diario de Centroamérica",
+        "published": "2026-09-02T06:56:00+00:00"
+      }
     ],
     "elsalvador": [
-      {"title": "[EJEMPLO] Nota de El Salvador 1", "link": "#", "image": "https://picsum.photos/seed/sv1/600/375", "source": "DEMO", "published": null}
+      {
+        "title": "Francia prevé un impacto económico limitado por la sequía y las olas de calor",
+        "link": "https://diarioelsalvador.com/dedinero/francia-preve-un-impacto-economico-limitado-por-la-sequia-y-las-olas-de-calor/848469/",
+        "image": null,
+        "source": "Diario El Salvador",
+        "published": "2026-09-02T13:09:28+00:00"
+      },
+      {
+        "title": "Un accidente de autobús deja 22 muertos y 28 heridos en el Sinaí egipcio",
+        "link": "https://diarioelsalvador.com/deplaneta/un-accidente-de-autobus-deja-22-muertos-y-28-heridos-en-el-sinai-egipcio/848465/",
+        "image": null,
+        "source": "Diario El Salvador",
+        "published": "2026-09-02T12:49:19+00:00"
+      },
+      {
+        "title": "El defensa del Real Madrid Asencio es condenado por conducir ebrio",
+        "link": "https://diarioelsalvador.com/dedeportes/el-defensa-del-real-madrid-asencio-es-condenado-por-conducir-ebrio/848459/",
+        "image": null,
+        "source": "Diario El Salvador",
+        "published": "2026-09-02T12:23:52+00:00"
+      },
+      {
+        "title": "La epidemia de ébola en República Democrática del Congo supera los 3,000 muertos",
+        "link": "https://diarioelsalvador.com/deplaneta/la-epidemia-de-ebola-en-republica-democratica-del-congo-supera-los-3000-muertos/848456/",
+        "image": null,
+        "source": "Diario El Salvador",
+        "published": "2026-09-02T12:15:54+00:00"
+      },
+      {
+        "title": "Isabel Coixet explora en su nueva película «qué significa estar vivo»",
+        "link": "https://diarioelsalvador.com/dediversion/isabel-coixet-explora-en-su-nueva-pelicula-que-significa-estar-vivo/848452/",
+        "image": null,
+        "source": "Diario El Salvador",
+        "published": "2026-09-02T12:01:39+00:00"
+      },
+      {
+        "title": "BCR proyecta que el PIB de El Salvador crecerá entre 4.5 % y 5 % en 2026",
+        "link": "https://diarioelsalvador.com/dedinero/bcr-proyecta-que-el-pib-de-el-salvador-crecera-entre-4-5-y-5-en-2026/848338/",
+        "image": null,
+        "source": "Diario El Salvador",
+        "published": "2026-09-02T11:00:00+00:00"
+      }
     ]
   }
 }
