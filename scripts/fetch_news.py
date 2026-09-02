@@ -32,37 +32,68 @@ import feedparser
 # ---------------------------------------------------------------------------
 SOURCES = {
     "global": [
-        {"name": "Reuters Business", "rss": "https://www.reutersagency.com/feed/?best-topics=business-finance", "max": 6},
-        {"name": "The Economist — Finance", "rss": "https://www.economist.com/finance-and-economics/rss.xml", "max": 6},
-        {"name": "Bloomberg Markets", "rss": "https://feeds.bloomberg.com/markets/news.rss", "max": 6},
+        {"name": "Reuters Business", "rss": ["https://www.reutersagency.com/feed/?best-topics=business-finance", "https://www.reutersagency.com/feed/?taxonomy=best-sectors&post_type=best"], "max": 6},
+        {"name": "The Economist — Finance", "rss": ["https://www.economist.com/finance-and-economics/rss.xml"], "max": 6},
+        {"name": "Bloomberg Markets", "rss": ["https://feeds.bloomberg.com/markets/news.rss"], "max": 6},
     ],
     "wallstreet": [
-        {"name": "WSJ Markets", "rss": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml", "max": 6},
-        {"name": "CNBC Top News", "rss": "https://www.cnbc.com/id/10001147/device/rss/rss.html", "max": 6},
-        {"name": "MarketWatch Top Stories", "rss": "https://feeds.marketwatch.com/marketwatch/topstories/", "max": 6},
+        {"name": "WSJ Markets", "rss": ["https://feeds.a.dj.com/rss/RSSMarketsMain.xml"], "max": 6},
+        {"name": "CNBC Top News", "rss": ["https://www.cnbc.com/id/10001147/device/rss/rss.html"], "max": 6},
+        {"name": "MarketWatch Top Stories", "rss": ["https://feeds.marketwatch.com/marketwatch/topstories/"], "max": 6},
     ],
     "fintech": [
-        {"name": "Forbes Business", "rss": "https://www.forbes.com/business/feed/", "max": 6},
-        {"name": "Yahoo Finance", "rss": "https://finance.yahoo.com/news/rssindex", "max": 6},
-        {"name": "Global Finance Magazine", "rss": "https://gfmag.com/feed/", "max": 6},
+        {"name": "Forbes Business", "rss": ["https://www.forbes.com/business/feed/"], "max": 6},
+        {"name": "Yahoo Finance", "rss": ["https://finance.yahoo.com/news/rssindex"], "max": 6},
+        {"name": "Global Finance Magazine", "rss": ["https://gfmag.com/feed/"], "max": 6},
     ],
     "mexico": [
-        {"name": "El Financiero", "rss": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/", "max": 8},
-        {"name": "El Economista", "rss": "https://www.eleconomista.com.mx/rss", "max": 8},
-        {"name": "Forbes México", "rss": "https://www.forbes.com.mx/feed/", "max": 6},
-        {"name": "Expansión", "rss": "https://expansion.mx/rss", "max": 8},
-        {"name": "El Universal — Cartera", "rss": "https://www.eluniversal.com.mx/rss.xml", "max": 6},
-        {"name": "Milenio — Negocios", "rss": "https://www.milenio.com/rss/negocios.xml", "max": 6},
+        {"name": "El Financiero", "rss": [
+            "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/category/economia/",
+            "https://www.elfinanciero.com.mx/rss/",
+            "https://www.elfinanciero.com.mx/feed/",
+        ], "max": 8},
+        {"name": "El Economista", "rss": [
+            "https://www.eleconomista.com.mx/rss/ultimasnoticias.xml",
+            "https://www.eleconomista.com.mx/seccion/rss/economia",
+            "https://www.eleconomista.com.mx/feed/",
+        ], "max": 8},
+        {"name": "Forbes México", "rss": [
+            "https://forbes.com.mx/feed/",
+            "https://www.forbes.com.mx/feed/",
+        ], "max": 6},
+        {"name": "Expansión", "rss": ["https://expansion.mx/rss", "https://expansion.mx/rss/economia"], "max": 8},
+        {"name": "El Universal — Cartera", "rss": [
+            "https://www.eluniversal.com.mx/rss.xml",
+            "https://www.eluniversal.com.mx/cartera/rss",
+        ], "max": 6},
+        {"name": "Milenio — Negocios", "rss": [
+            "https://www.milenio.com/rss",
+            "https://www.milenio.com/rss/negocios",
+        ], "max": 6},
     ],
     "guatemala": [
-        {"name": "Prensa Libre — Economía", "rss": "https://www.prensalibre.com/arc/outboundfeeds/rss/category/economia/", "max": 8},
-        {"name": "La Hora", "rss": "https://lahora.gt/feed/", "max": 6},
-        {"name": "Diario de Centroamérica", "rss": "https://www.dca.gob.gt/feed/", "max": 6},
+        {"name": "Prensa Libre — Economía", "rss": [
+            "https://www.prensalibre.com/arc/outboundfeeds/rss/",
+            "https://www.prensalibre.com/feed/",
+        ], "max": 8},
+        {"name": "La Hora", "rss": ["https://lahora.gt/feed/"], "max": 6},
+        {"name": "Diario de Centroamérica", "rss": ["https://www.dca.gob.gt/feed/"], "max": 6},
+        {"name": "Forbes Centroamérica — Guatemala", "rss": [
+            "https://forbescentroamerica.com/category/guatemala/feed/",
+            "https://forbescentroamerica.com/feed/",
+        ], "max": 6},
     ],
     "elsalvador": [
-        {"name": "El Diario de Hoy", "rss": "https://www.elsalvador.com/rss/", "max": 8},
-        {"name": "Diario El Mundo", "rss": "https://diario.elmundo.sv/feed/", "max": 6},
-        {"name": "Diario El Salvador", "rss": "https://diarioelsalvador.com/feed/", "max": 6},
+        {"name": "El Diario de Hoy", "rss": [
+            "https://www.eldiariodehoy.com/feed/",
+            "https://www.eldiariodehoy.com/rss/",
+        ], "max": 8},
+        {"name": "Diario El Mundo", "rss": ["https://diario.elmundo.sv/feed/"], "max": 6},
+        {"name": "Diario El Salvador", "rss": ["https://diarioelsalvador.com/feed/"], "max": 6},
+        {"name": "elsalvador.com", "rss": [
+            "https://www.elsalvador.com/rss/",
+            "https://www.elsalvador.com/arc/outboundfeeds/rss/",
+        ], "max": 6},
     ],
 }
 
@@ -103,23 +134,32 @@ def parse_date(entry):
 
 
 def fetch_source(source):
-    stories = []
-    try:
-        parsed = feedparser.parse(source["rss"], agent=USER_AGENT)
-        if parsed.bozo and not parsed.entries:
-            raise ValueError(str(parsed.bozo_exception))
-        for entry in parsed.entries[: source.get("max", 6)]:
-            stories.append({
-                "title": entry.get("title", "").strip(),
-                "link": entry.get("link", ""),
-                "image": extract_image(entry),
-                "source": source["name"],
-                "published": parse_date(entry),
-            })
-        print(f"  ✓ {source['name']}: {len(stories)} notas")
-    except Exception as exc:
-        print(f"  ✗ {source['name']} — feed falló, se omite ({exc})", file=sys.stderr)
-    return stories
+    """Prueba cada URL candidata en orden; usa la primera que traiga notas."""
+    candidates = source["rss"] if isinstance(source["rss"], list) else [source["rss"]]
+    last_error = None
+    for url in candidates:
+        try:
+            parsed = feedparser.parse(url, agent=USER_AGENT)
+            if parsed.bozo and not parsed.entries:
+                raise ValueError(str(parsed.bozo_exception))
+            if not parsed.entries:
+                raise ValueError("feed vacío")
+            stories = []
+            for entry in parsed.entries[: source.get("max", 6)]:
+                stories.append({
+                    "title": entry.get("title", "").strip(),
+                    "link": entry.get("link", ""),
+                    "image": extract_image(entry),
+                    "source": source["name"],
+                    "published": parse_date(entry),
+                })
+            print(f"  ✓ {source['name']}: {len(stories)} notas ({url})")
+            return stories
+        except Exception as exc:
+            last_error = exc
+            continue
+    print(f"  ✗ {source['name']} — {len(candidates)} URL(s) probadas, todas fallaron. Última: {last_error}", file=sys.stderr)
+    return []
 
 
 def build():
