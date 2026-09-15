@@ -1,48 +1,48 @@
 {
-  "generated_at": "2026-09-14T17:46:58.616047+00:00",
+  "generated_at": "2026-09-15T16:20:57.766290+00:00",
   "sections": {
     "global": [
       {
-        "title": "Puig Agrees to Take Control of Isdin in €1.2 Billion Deal",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/puig-agrees-to-take-control-of-isdin-in-1-2-billion-deal",
+        "title": "Agility Unveils Humanoid Built to Work With People",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-15/agility-unveils-humanoid-built-to-work-with-people-video",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-09-14T16:33:49+00:00"
+        "published": "2026-09-15T15:59:04+00:00"
       },
       {
-        "title": "US 10-Year Breaches 5% as Inflation, Supply Worries Mount",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/us-10-year-yield-breaches-5-as-inflation-supply-worries-mount",
+        "title": "Glencore Says Radiant World Sent Fake Invoices to Lenders",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-15/glencore-says-radiant-world-sent-falsified-invoices-to-lenders",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-09-14T14:29:47+00:00"
+        "published": "2026-09-15T15:48:13+00:00"
       },
       {
-        "title": "Aon Draws $65 Billion of Demand For Bond to Fund USI Acquisition",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/aon-kicks-off-seven-part-us-dollar-bond-sale-for-usi-takeover",
+        "title": "UK Energy Bills Set to Jump 25%: Bloomberg Economics",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-15/uk-energy-bills-set-to-jump-25-bloomberg-economics-video",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-09-14T12:23:05+00:00"
+        "published": "2026-09-15T15:38:51+00:00"
       },
       {
-        "title": "Junk Firms Plot $13 Billion Debt Refinancings as Rate Hikes Loom",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/junk-firms-are-refinancing-debt-early-on-fear-costs-will-rise",
+        "title": "Stocks Fall in Run-Up to Fed as Yields Stay High",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-15/stocks-fall-in-run-up-to-fed-as-yields-stay-high-video",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-09-14T12:00:54+00:00"
+        "published": "2026-09-15T15:26:33+00:00"
       },
       {
-        "title": "China Passes Halfway Mark of US Soybean Pledge Ahead of Xi Visit",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-14/china-passes-halfway-mark-of-us-soybean-pledge-ahead-of-xi-visit",
+        "title": "US 10-Year Yield Rises to Highest Since 2007 as Fed Looms",
+        "link": "https://www.bloomberg.com/news/videos/2026-09-15/us-10-year-yield-rises-to-highest-since-07-as-fed-looms-video",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-09-14T08:05:38+00:00"
+        "published": "2026-09-15T15:25:31+00:00"
       },
       {
-        "title": "Stocks Fall as AI Slowdown Worries Hit Chipmakers: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+        "title": "Stocks Fall in Run-Up to Fed as Yields Stay High: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-09-14/asian-stocks-to-fall-on-ai-key-us-yield-tops-5-markets-wrap",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-09-13T22:06:01+00:00"
+        "published": "2026-09-14T22:19:06+00:00"
       },
       {
         "title": "Wanted: new business, finance and economics interns",
@@ -89,46 +89,88 @@
     ],
     "wallstreet": [
       {
-        "title": "GM plans U.S. battery development as Trump's DOT attacks Ford for China ties",
-        "link": "https://www.cnbc.com/2026/09/12/gm-us-battery-development-ford-china-ties.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-09-14T01:05:56+00:00"
+        "title": "Wall Street may have gotten the ‘slower AI’ story all wrong",
+        "link": "https://www.marketwatch.com/story/wall-street-may-have-gotten-the-slower-ai-story-all-wrong-a08613c4?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-69966637",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-15T16:16:00+00:00"
       },
       {
-        "title": "OpenAI targets work of Wall Street junior bankers with new ChatGPT for Financial Services",
-        "link": "https://www.cnbc.com/2026/09/10/openai-chatgpt-for-financial-services-targets-work-of-junior-bankers.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-09-11T16:06:31+00:00"
+        "title": "Factory robots long posed a safety threat to human workers. This company says it has solved that problem.",
+        "link": "https://www.marketwatch.com/story/factory-robots-long-posed-a-safety-threat-to-human-workers-one-company-says-its-solved-that-problem-2db84297?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-58131452",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-15T16:11:00+00:00"
       },
       {
-        "title": "Wealthy investors are pouring billions into this new tax strategy despite risks",
-        "link": "https://www.cnbc.com/2026/09/11/wealthy-investors-tax-aware-long-short-strategies.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-09-11T15:54:22+00:00"
+        "title": "Medicare is using AI to approve claims. The result has been ‘alarmingly high denial rates.’",
+        "link": "https://www.marketwatch.com/story/medicare-is-using-ai-to-approve-claims-the-result-has-been-alarmingly-high-denial-rates-db87d902?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-93436982",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-15T16:11:00+00:00"
       },
       {
-        "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
-        "link": "https://www.cnbc.com/2026/09/11/cdc-record-cyclosporiasis-outbreak-over.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-09-11T15:36:45+00:00"
+        "title": "‘There might be a silver lining’: My friend’s wife died at 60 after a high-earning career. Can he claim her Social Security?",
+        "link": "https://www.marketwatch.com/story/there-might-be-a-silver-lining-my-friends-wife-died-at-60-after-a-high-earning-career-can-he-claim-her-social-security-eb95210a?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-55390155",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-15T16:00:00+00:00"
       },
       {
-        "title": "25 years after 9/11, the U.S. starts rolling back travel restrictions, from liquids to gate access",
-        "link": "https://www.cnbc.com/2026/09/11/9/11-anniversary-air-travel.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-09-11T11:00:01+00:00"
+        "title": "90% of retirees are making this miscalculation with their savings",
+        "link": "https://www.marketwatch.com/story/90-of-retirees-are-making-this-miscalculation-with-their-savings-feb9db79?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-08685542",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-15T16:00:00+00:00"
       },
       {
-        "title": "Ford announces $1 billion investment at Kentucky plant following DOT criticism on China",
-        "link": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+        "title": "How many rate hikes are on tap? Wall Street hopes to connect the Fed’s ‘dots.’",
+        "link": "https://www.marketwatch.com/story/how-many-rate-hikes-are-on-tap-wall-street-hopes-to-connect-the-feds-dots-6b1ac5dc?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-75806964",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-09-15T15:16:00+00:00"
+      },
+      {
+        "title": "Nike co-founder Phil Knight to donate $1.1 billion to Oregon medical center",
+        "link": "https://www.cnbc.com/2026/09/15/nike-phil-knight-donation-oregon-medical-center.html",
         "image": null,
         "source": "CNBC Top News",
-        "published": "2026-09-10T20:48:14+00:00"
+        "published": "2026-09-15T15:00:01+00:00"
+      },
+      {
+        "title": "Children's clothing retailer Carter's is rebranding to appeal to a new generation of parents",
+        "link": "https://www.cnbc.com/2026/09/15/carters-kids-clothing-retailer-rebrands.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-15T13:19:31+00:00"
+      },
+      {
+        "title": "Potential AI slowdown is not ‘end of the world’ for data center real estate, says Digital Realty CEO",
+        "link": "https://www.cnbc.com/2026/09/15/data-center-reit-ceo-ai-slowdown.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-15T12:28:15+00:00"
+      },
+      {
+        "title": "GM launching new customer software experience with redesigned Chevy, GMC pickups",
+        "link": "https://www.cnbc.com/2026/09/15/2027-chevy-silverado-gmc-sierra-to-debut-gms-new-software-experience.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-15T11:00:01+00:00"
+      },
+      {
+        "title": "Kraft Heinz bets on more flavors for Philadelphia cream cheese as it looks to revive brands",
+        "link": "https://www.cnbc.com/2026/09/15/kraft-heinz-new-philadelphia-cream-cheese-flavors.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-15T10:00:01+00:00"
+      },
+      {
+        "title": "U.S. auto market predictions for 2030: More hybrids, no Chinese entrants",
+        "link": "https://www.cnbc.com/2026/09/15/us-auto-market-predictions-2030-john-murphy.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-09-15T10:00:01+00:00"
       },
       {
         "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -175,46 +217,53 @@
     ],
     "fintech": [
       {
-        "title": "7 Foodie Stops Worth Building A Great British Road Trip Around",
-        "link": "https://www.forbes.com/sites/lelalondon/2026/09/14/7-foodie-stops-worth-building-a-great-british-road-trip-around/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa82c20b64bbf423ddc3d02/0x0.jpg",
+        "title": "How To Build The Courage To Make A Bold Career Change",
+        "link": "https://www.forbes.com/sites/forbesbooksauthors/2026/09/15/how-to-build-the-courage-to-make-a-bold-career-change/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa963ccac84c26e978675f1/0x0.jpg",
         "source": "Forbes Business",
-        "published": "2026-09-14T17:41:10+00:00"
+        "published": "2026-09-15T15:32:07+00:00"
       },
       {
-        "title": "Donald Trump Jr. And Wife Defend Lavish Wedding ‘Gift’ From Russian Oligarch",
-        "link": "https://www.forbes.com/sites/saradorn/2026/09/14/donald-trump-jr-and-wife-defend-lavish-wedding-gift-from-russian-oligarch/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa7f138e0fcd48a649412b0/0x0.jpg?width=960",
+        "title": "How Chiropractic Found Its Place In The NFL, One Athlete At A Time",
+        "link": "https://www.forbes.com/sites/forbesbooksauthors/2026/09/15/how-chiropractic-found-its-place-in-the-nfl-one-athlete-at-a-time/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa95bfb8ffab8a131c9ac0b/0x0.jpg",
         "source": "Forbes Business",
-        "published": "2026-09-14T17:31:15+00:00"
+        "published": "2026-09-15T15:05:35+00:00"
       },
       {
-        "title": "Legal Scholars Argue Boulder’s Climate Case Tests Reach Of State Law",
-        "link": "https://www.forbes.com/sites/daneberhart/2026/09/14/legal-scholars-argue-boulders-climate-case-tests-reach-of-state-law/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa814292fbc0671d7fec018/0x0.jpg",
+        "title": "Michael Jackson’s Career-Defining Song Is A Bestseller Again",
+        "link": "https://www.forbes.com/sites/hughmcintyre/2026/09/15/michael-jacksons-career-defining-song-is-a-bestseller-again/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5feba255b0add1f2cba3fff0/0x0.jpg?width=960",
         "source": "Forbes Business",
-        "published": "2026-09-14T17:31:02+00:00"
+        "published": "2026-09-15T15:00:21+00:00"
       },
       {
-        "title": "Dua Lipa’s Years-Old Single Brings The Singer To One Chart For The First Time",
-        "link": "https://www.forbes.com/sites/hughmcintyre/2026/09/14/dua-lipas-years-old-single-brings-the-singer-to-one-chart-for-the-first-time/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6a29b385488f55b7da22216a/0x0.jpg?width=960",
+        "title": "The Agentic Economy Needs A Neutral Trust Bureau To Scale",
+        "link": "https://www.forbes.com/sites/forbesbooksauthors/2026/09/15/the-agentic-economy-needs-a-neutral-trust-bureau-to-scale/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa9591d89b03015eacea302/0x0.jpg",
         "source": "Forbes Business",
-        "published": "2026-09-14T17:30:25+00:00"
+        "published": "2026-09-15T14:44:55+00:00"
       },
       {
-        "title": "Zeldin's EPA Deregulation Increases Risks For Wall Street Investors",
-        "link": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/09/14/zeldins-epa-deregulation-increases-risks-for-wall-street-investors/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa81aef2fbc0671d7fec01a/0x0.jpg",
+        "title": "Gen Z Is Choosing San Antonio Over New York",
+        "link": "https://www.forbes.com/sites/fionariley/2026/09/15/gen-z-is-choosing-san-antonio-over-new-york/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa957fa0475ff1112b62e55/0x0.jpg?width=960",
         "source": "Forbes Business",
-        "published": "2026-09-14T17:28:59+00:00"
+        "published": "2026-09-15T14:40:45+00:00"
       },
       {
-        "title": "The Strange Way Data Centers Are Showing Up In The Muni Bond Market",
-        "link": "https://www.forbes.com/sites/brandonkochkodin/2026/09/14/the-strange-way-data-centers-are-showing-up-in-the-muni-bond-market/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa8256b65e7f98477605029/0x0.jpg?width=960",
+        "title": "The Rich Are Worried About An AI Apocalypse—But Experts Say It’s Already Hurting The Poor",
+        "link": "https://www.forbes.com/sites/maryroeloffs/2026/09/15/the-rich-are-worried-about-an-ai-apocalypse-but-experts-say-its-already-hurting-the-poor/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6aa950d9797514cc24b08279/0x0.jpg?width=960&precrop=1186%2C667%2Cx432%2Cy249",
         "source": "Forbes Business",
-        "published": "2026-09-14T17:10:38+00:00"
+        "published": "2026-09-15T14:39:06+00:00"
+      },
+      {
+        "title": "Turning East Africa’s Growth Into Bankable Assets",
+        "link": "https://gfmag.com/capital-raising-corporate-finance/turning-east-africa-growth-into-bankable-assets/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-09-15T12:22:35+00:00"
       },
       {
         "title": "Active Wealth Management in a Changing Global Economy",
@@ -252,409 +301,402 @@
         "published": "2026-09-10T21:44:11+00:00"
       },
       {
-        "title": "Latin American Neobanks Take the Next Step",
-        "link": "https://gfmag.com/technology/latin-american-neobanks-take-the-next-step/",
-        "image": null,
-        "source": "Global Finance Magazine",
-        "published": "2026-09-10T06:00:00+00:00"
-      },
-      {
-        "title": "Stock Market Today (Sept. 14, 2026): Nasdaq, S&P 500 falls on rising oil, AI tensions",
-        "link": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-14-133832281.html",
-        "image": "https://media.zenfs.com/en/thestreet_881/75ef62828f969b61d995645f07e36084.jpg",
+        "title": "Costco rations Kirkland motor oil, raises price to $57.99",
+        "link": "https://finance.yahoo.com/energy/articles/costco-rations-kirkland-motor-oil-133308837.html",
+        "image": "https://media.zenfs.com/en/quartz_855/d641521426fc253f12a30f067a979533.jpg",
         "source": "Yahoo Finance",
         "published": null
       },
       {
-        "title": "Stock market today: Dow, S&P 500, Nasdaq fall as Anthropic's AI warning spooks tech traders, 10-year yield hits 5%",
-        "link": "https://finance.yahoo.com/markets/live/stock-market-today-monday-september-14-dow-sp-500-nasdaq-080559558.html",
-        "image": "https://s.yimg.com/os/creatr-uploaded-images/2026-02/d919dfb0-0dd6-11f1-9f19-3917ef6320b7",
+        "title": "Why Kroger Co. (KR) Could Be a Consumer Staples Comeback Story",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-co-kr-could-160335573.html",
+        "image": "https://media.zenfs.com/en/insidermonkey.com/26976b48fc65f651214d3159b7cd9597.jpg",
         "source": "Yahoo Finance",
         "published": null
       },
       {
-        "title": "Carney, locked in US trade war, pitches Canada to global investment titans",
-        "link": "https://finance.yahoo.com/news/carney-locked-us-trade-war-100319218.html",
-        "image": "https://media.zenfs.com/en/reuters.com/6b017b45f41a08d2f9317b4938d0e372.jpg",
+        "title": "Nvidia, AI Chip Stocks Look To Stem The Bleeding After Sell-Off",
+        "link": "https://www.investors.com/news/technology/chip-stocks-nvidia-seek-rebound-after-ai-sell-off/?src=A00220&yptr=yahoo",
+        "image": "https://media.zenfs.com/en/ibd.com/b3666ec40b8b8e586ef06d5f02c1488b.jpg",
         "source": "Yahoo Finance",
         "published": null
       },
       {
-        "title": "Cass: TL rates jump 11% in August, freight shipments turn positive",
-        "link": "https://finance.yahoo.com/economy/articles/cass-tl-rates-jump-11-171712955.html",
-        "image": "https://media.zenfs.com/en/freightwaves_373/04e557e675164e36561b0b150d2d1117.jpg",
+        "title": "The Oil Crisis Has Reached Costco’s Motor Oil Aisle",
+        "link": "https://finance.yahoo.com/energy/articles/oil-crisis-reached-costco-motor-155626578.html",
+        "image": "https://media.zenfs.com/en/moby_896/ac896bef79577d089d06f5ef9d34099a.jpg",
         "source": "Yahoo Finance",
         "published": null
       },
       {
-        "title": "Northern Air Cargo names permanent CEO",
-        "link": "https://finance.yahoo.com/small-business/articles/northern-air-cargo-names-permanent-171653326.html",
-        "image": "https://media.zenfs.com/en/freightwaves_373/ebad59ce758594c8eea798799b23c11e.jpg",
+        "title": "How Caterpillar (CAT) Drives Sector-Leading Performance Beyond AI Models",
+        "link": "https://finance.yahoo.com/markets/stocks/articles/caterpillar-cat-drives-sector-leading-155623250.html",
+        "image": "https://media.zenfs.com/en/insidermonkey.com/606edcffa49b9527118d9b1e74898077.jpg",
         "source": "Yahoo Finance",
         "published": null
       },
       {
-        "title": "Another coffeehouse files for Chapter 11 as costs, prices rise",
-        "link": "https://finance.yahoo.com/small-business/articles/another-coffeehouse-files-chapter-11-033545256.html",
-        "image": "https://media.zenfs.com/en/thestreet_881/f82162103f1de48f9b003aea29780861.jpg",
+        "title": "National specialty clothing chain closing all its stores",
+        "link": "https://finance.yahoo.com/small-business/articles/national-specialty-clothing-chain-closing-140700669.html",
+        "image": "https://media.zenfs.com/en/thestreet_881/6e12c070b71c8e82a761f2a53cf75bc7.jpg",
         "source": "Yahoo Finance",
         "published": null
       }
     ],
     "mexico": [
       {
-        "title": "No te ayudes, compadre: CEO de Anthropic plantea que los gobiernos puedan bloquear modelos de IA",
-        "link": "https://www.elfinanciero.com.mx/empresas/2026/06/10/no-te-ayudes-compadre-ceo-de-anthropic-plantea-que-los-gobiernos-puedan-bloquear-modelos-de-ia/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/HPkOjgaweYDkHfVnWjmrMk_siFs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/GUFNBJUOZRAL3D3TA7PCARDAGQ.jpeg",
+        "title": "Peso celebra el Grito de Independencia: ¿Cuánto se aprecia ante el dólar HOY 15 de septiembre?",
+        "link": "https://www.elfinanciero.com.mx/mercados/2026/09/15/peso-dolar-precio-hoy-15-de-septiembre-de-2026/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/g1PXLdJYvx2ajvygNxUHHv7sjKE=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ETWOUBSB4BGAHAJH4QNV4P4L2M.png",
         "source": "El Financiero",
-        "published": "2026-09-14T17:32:51+00:00"
+        "published": "2026-09-15T15:50:06+00:00"
       },
       {
-        "title": "Fuga de talentos: Google está a punto de perder a dos empleados del equipo de IA; irán a Anthropic",
-        "link": "https://www.elfinanciero.com.mx/empresas/2026/06/24/fuga-de-talentos-google-esta-a-punto-de-perder-a-dos-empleados-del-equipo-de-ia-iran-a-anthropic/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/cdh3nuDQnmFvCNiM82xex2OZPqY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KIMSFPCZYNBFFCKZBZAD2BFDBA.jpeg",
+        "title": "Consejos que los jefes han ignorado",
+        "link": "https://www.elfinanciero.com.mx/bloomberg-businessweek/2026/09/15/consejos-que-los-jefes-han-ignorado/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/RUgtqqrYT9Ym-_8k9sCBfBwncnY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WKMCLPDNW5D3NHGJ5SKW37Z5PU.webp",
         "source": "El Financiero",
-        "published": "2026-09-14T17:31:25+00:00"
+        "published": "2026-09-15T15:45:54+00:00"
       },
       {
-        "title": "¿'Guerra’ por la IA? Anthropic acusa a Alibaba de intentar acceder a Claude con miles de cuentas falsas",
-        "link": "https://www.elfinanciero.com.mx/tech/2026/06/24/guerra-por-la-ia-anthropic-acusa-a-alibaba-de-intentar-acceder-a-claude-con-miles-de-cuentas-falsas/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/EzaacjmBnMeV9vicXcNgEj7ncT8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RWEY3EBFMFBD7PFZR5CJWZWF6M.jpeg",
+        "title": "¿Dónde ver el concierto de Intocable? Canales para seguir los festejos por el Grito de Independencia 2026",
+        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/09/15/cuando-y-donde-ver-en-vivo-el-concierto-de-intocable-en-la-ceremonia-del-grito-de-independencia-2026/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/EwZCwUW6kfE7TBTHOaoEkHI7VfE=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LB2J2NVBBFBZZLI764KSUQJSPY.jpg",
         "source": "El Financiero",
-        "published": "2026-09-14T17:31:09+00:00"
+        "published": "2026-09-15T15:39:46+00:00"
       },
       {
-        "title": "Anthropic duplicará hasta 40 millones de dólares su inversión en Public First Action para regular la IA",
-        "link": "https://www.elfinanciero.com.mx/tech/2026/07/22/anthropic-duplicara-hasta-40-millones-de-dolares-su-inversion-en-public-first-action-para-regular-la-ia/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/MGQmhCrintpcqUBa_B5tdmdlPR4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WQ26773A45A3PGXG5KD6M6KX5M.png",
+        "title": "¿Por qué México quiere atraer más extranjeros chinos? ‘Gastan más del doble que el turista internacional’",
+        "link": "https://www.elfinanciero.com.mx/nacional/2026/09/15/por-que-mexico-quiere-atraer-mas-extranjeros-chinos-gastan-mas-del-doble-que-el-turista-internacional/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/BS0LUKtlBBtcnkTtx1g8GFq59k0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/DGOLXURHXZEGNBJW7VVFKCHS5M.jpg",
         "source": "El Financiero",
-        "published": "2026-09-14T17:30:46+00:00"
+        "published": "2026-09-15T15:11:37+00:00"
       },
       {
-        "title": "La rebelión de las máquinas: Anthropic reconoce que Claude hackeó 3 organizaciones durante pruebas",
-        "link": "https://www.elfinanciero.com.mx/tech/2026/07/30/la-rebelion-de-las-maquinas-anthropic-reconoce-que-claude-hackeo-3-organizaciones-durante-pruebas/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/dNdt2fYcQWdcsRjoT81jqF93IJ4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PUCBPVYDT5BLJIK44KHW4EW6M4.jpg",
+        "title": "Tailandia endurece visas para México y 59 países más: ¿Cuál es la nueva restricción que impuso?",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/09/15/tailandia-endurece-visas-para-mexico-y-59-paises-mas-cual-es-la-nueva-restriccion-que-impuso/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/L8LrkNK7KbI_KLH2iPJvvu91CRc=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/2GR52TI3KNHGHJLVWBTJWZTYZ4.jpg",
         "source": "El Financiero",
-        "published": "2026-09-14T17:30:28+00:00"
+        "published": "2026-09-15T15:04:38+00:00"
       },
       {
-        "title": "Empleado de Anthropic renuncia y advierte al mundo: ‘La IA podría matarnos a todos antes de 2030′",
-        "link": "https://www.elfinanciero.com.mx/tech/2026/09/09/jacob-coxon-renuncia-a-anthropic-y-openai-denuncia-que-la-ia-podria-acabar-con-la-humanidad/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/r9I7geJ7csW-9Ulm_yOATGf_AW0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QS2PLSJRMFE6ZKKHCJXTU4QX4A.jpg",
+        "title": "Meta amplía su negocio de suscripciones: esto cobrarán sus planes para WhatsApp, Instagram y Facebook",
+        "link": "https://expansion.mx/tecnologia/2026/09/15/meta-one-precios-funciones-whatsapp-instagram-facebook",
+        "image": "https://cdn-3.expansion.mx/dims4/default/7e6c2ba/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fae%2F08%2F314fa51c4220a8f0a6deb1e33174%2Fmeta-one-pago.jpg",
+        "source": "Expansión",
+        "published": "2026-09-15T15:00:53+00:00"
+      },
+      {
+        "title": "‘Polonia dejará de existir en 2 o 3 días’: Rusia amenaza a Varsovia si se une en ataques con Ucrania",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/09/15/polonia-dejara-de-existir-en-2-o-3-dias-rusia-amenaza-a-varsovia-si-se-une-en-ataques-con-ucrania/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/2WSfdHCwUuHUiv1Yvv0okepajx8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/LBRHLFEQ5ZACJKZWQR5RKNZLHY.jpg",
         "source": "El Financiero",
-        "published": "2026-09-14T17:30:07+00:00"
+        "published": "2026-09-15T14:33:04+00:00"
       },
       {
-        "title": "¿La IA avanza demasiado rápido? OpenAI se suma al llamado de Anthropic para moderar su desarrollo",
-        "link": "https://www.elfinanciero.com.mx/tech/2026/09/12/la-ia-avanza-demasiado-rapido-openai-se-suma-al-llamado-de-anthropic-para-moderar-su-desarrollo/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/NMlwUKMqnovTNa5Q7YzCn0laKLQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/NNCSAZDIXVDQ5KMQXD6SDBWD2Y.png",
+        "title": "Justicia por Claudia Tacoronte: Estudiantes de la UAEM marcharán HOY en memoria de la alumna española",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/09/15/justicia-por-claudia-tacoronte-estudiantes-de-la-uaem-marcharan-hoy-en-memoria-de-la-alumna-espanola/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/HWKM6c9TyFATDp4Tfmj1JgxQVIA=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SPFA5JJVFNFBVMORAM3DHUQY3E.jpg",
         "source": "El Financiero",
-        "published": "2026-09-14T17:29:50+00:00"
+        "published": "2026-09-15T14:27:44+00:00"
       },
       {
-        "title": "Oxicodona adulterada con fentanilo: La pastilla mortal que habría causado la muerte Hayden Panettiere",
-        "link": "https://www.elfinanciero.com.mx/espectaculos/2026/09/14/pastilla-adulterada-habria-causado-muerte-de-hayden-panettiere/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/fRyn-lFOEsxKoyAq3inXX56t5OI=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PZBD6JM67NH6FMJRDAXTYNUQPM.png",
+        "title": "El Fed de Warsh y Banxico (II)",
+        "link": "https://www.elfinanciero.com.mx/opinion/gabriel-casillas/2026/09/15/el-fed-de-warsh-y-banxico-ii/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/Cxjg0uULYiU-RTIkGFTxmlKFoq0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/QOMQPOVB4RA2DHPI7TSDRLNRNE.jpg",
         "source": "El Financiero",
-        "published": "2026-09-14T17:23:10+00:00"
+        "published": "2026-09-15T13:58:04+00:00"
       },
       {
-        "title": "Kia Seltos vs. Toyota Corolla Cross: dos rivales que compiten por el mercado de las SUV híbridas en México",
-        "link": "https://expansion.mx/empresas/2026/09/14/kia-seltos-vs-toyota-corolla-cross-precio-rendimiento",
-        "image": "https://cdn-3.expansion.mx/dims4/default/6589a9a/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F35%2Fa7%2Fd1f4f47f4c7780bf83bd3abc9cdd%2Fcorolla-cross-vs-kia-seltos-v2.png",
+        "title": "Hoy No Circula 15 de septiembre: ¿habrá restricciones este martes en CDMX y Edomex?",
+        "link": "",
+        "image": "https://cdn-3.expansion.mx/dims4/default/8cedac4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc6%2Fa2%2F568b90f64d12915f3db13854c8a6%2F3-metrobus-trafico-afp-20250715-66uu4zr-v1-highres-mexicotransporttraffic.jpeg",
         "source": "Expansión",
-        "published": "2026-09-14T15:52:34+00:00"
+        "published": "2026-09-15T12:02:32+00:00"
       },
       {
-        "title": "Actualización iOS 27 deja fuera a estos iPhone; ¿el tuyo recibirá las nuevas funciones?",
-        "link": "https://expansion.mx/tecnologia/2026/09/14/actualizacion-ios-27-deja-fuera-a-estos-iphone",
-        "image": "https://cdn-3.expansion.mx/dims4/default/8d22e11/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fa1%2Ffb%2Fa0dafd1449bcbc3dfefeb7802e50%2Fiphone-15-pro.jpeg",
+        "title": "Se vuelve impagable el seguro de gastos médicos mayores; se pierden un millón de riesgos asegurados en un año",
+        "link": "https://expansion.mx/economia/2026/09/15/seguro-de-gastos-medicos-mayores-no-es-clase-media",
+        "image": "https://cdn-3.expansion.mx/dims4/default/68dc984/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fec%2F40%2Fb73e8f9b4bae91ab2f32f994e33b%2Fistock-1500894752.jpeg",
         "source": "Expansión",
-        "published": "2026-09-14T15:21:17+00:00"
+        "published": "2026-09-15T11:55:58+00:00"
       },
       {
-        "title": "México prevé recaudar 50% más por cuotas a importaciones desleales en 2027, con China bajo la lupa",
-        "link": "https://expansion.mx/economia/2026/09/14/mexico-recaudara-mas-cuotas-importaciones-desleales-china",
-        "image": "https://cdn-3.expansion.mx/dims4/default/01abfd4/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff6%2Fb1%2F1d9589b5432085f4f3b4f3228427%2Fcuotas-compensatorias-mexico-comercio-exterior.jpg",
+        "title": "Una empresa mexicana usa realidad virtual para reducir accidentes y costos industriales",
+        "link": "https://expansion.mx/tecnologia/2026/09/15/la-empresa-mexicana-que-usa-realidad-virtual",
+        "image": "https://cdn-3.expansion.mx/dims4/default/6966839/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fc2%2Fc8%2Fd4be94264c50931d8c556f563bcf%2Ffyware-realidad-virtual-previene-accidentes-laborales.jpg",
         "source": "Expansión",
-        "published": "2026-09-14T11:56:06+00:00"
+        "published": "2026-09-15T11:55:26+00:00"
       },
       {
-        "title": "OXIO almacenará los datos de los 24 millones de usuarios de Movistar en el Data Center de Amazon en Querétaro",
-        "link": "https://expansion.mx/empresas/2026/09/14/oxio-llevara-data-centers-amazon-datos-usuarios-movistar",
-        "image": "https://cdn-3.expansion.mx/dims4/default/36e0796/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F47%2Faa%2F081dff6244278d1608ccce808dc8%2Ftelefonica-movistar-le-gana-round-fiscal-al-sat-con-resolucion-de-la-scjn-es-la-primera-empresa-en-lograrlo.jpeg",
+        "title": "Pemex y CFE necesitan capital privado para cumplir sus planes de inversión y megaproyectos a 2030",
+        "link": "https://expansion.mx/empresas/2026/09/15/pemex-y-cfe-necesitan-capital-privado-para-cumplir-sus-planes-de-inversion-y-megaproyectos-a-2030",
+        "image": "https://cdn-3.expansion.mx/dims4/default/aea7a81/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F81%2Ffa%2F11f3c431414f8eafd9cc36a6649e%2Fistock-2223952403.jpg",
         "source": "Expansión",
-        "published": "2026-09-14T11:55:18+00:00"
+        "published": "2026-09-15T11:36:32+00:00"
       },
       {
-        "title": "¿Por qué tardan tanto en atenderte? El wifi de los hospitales es un factor de vida o muerte",
-        "link": "https://expansion.mx/tecnologia/2026/09/14/wifi-de-los-hospitales-es-un-factor-de-vida-o-muerte",
-        "image": "https://cdn-3.expansion.mx/dims4/default/24c3319/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fdb%2F14%2F91835efc4849b51bdc4151bbe9cc%2Fhospitales-1.jpg",
+        "title": "Primark llega a México y detrás de la marca hay una poderosa familia empresarial",
+        "link": "https://expansion.mx/empresas/2026/09/14/primark-liverpool-mexico-detras-poderosa-familia-empresarial",
+        "image": "https://cdn-3.expansion.mx/dims4/default/085d456/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F80%2F47%2F902599934b2b838537f132d59631%2Fprimark-street-editorial.jpg",
         "source": "Expansión",
-        "published": "2026-09-14T11:55:12+00:00"
+        "published": "2026-09-15T01:40:05+00:00"
       },
       {
-        "title": "La huelga de Monte de Piedad se acerca al año y ahora un sindicato pide terminarla",
-        "link": "https://expansion.mx/economia/2026/09/13/huelga-nacional-monte-de-piedad-sindicato-pide-terminarla",
-        "image": "https://cdn-3.expansion.mx/dims4/default/133e614/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F4f%2Fe3%2F5da5b9f9462ab27098e8c78be4c7%2F2-monte-piedad-huelga-1063552-continua-huelga-nacional-monte-de-piedad-web.jpeg",
+        "title": "Sin examen ni tesis, la UNAM abre la opción de una titulación conmemorativa",
+        "link": "https://expansion.mx/carrera/2026/09/14/sin-examen-ni-tesis-unam-opcion-titulacion-conmemorativa",
+        "image": "https://cdn-3.expansion.mx/dims4/default/cc4c6fe/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff2%2Ff2%2Fa3898f274d02ad735c39c08d93b7%2Funam-graduate-portrait.jpg",
         "source": "Expansión",
-        "published": "2026-09-14T00:12:58+00:00"
+        "published": "2026-09-15T00:32:36+00:00"
       },
       {
-        "title": "La UNAM vuelve al Centro Histórico con un campus que reunirá más de 15 edificios",
-        "link": "https://expansion.mx/carrera/2026/09/13/unam-centro-historico-nuevo-campus-que-carreras-cuando-abre",
-        "image": "https://cdn-3.expansion.mx/dims4/default/5272afb/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F11%2Fd9%2Fd2d893f246369604375c0a6698bb%2Fdescarga.jpeg",
+        "title": "De América Móvil a Cemex e Infonavit: las 20 empresas mexicanas más importantes que compiten en grandes ligas",
+        "link": "https://expansion.mx/empresas/2026/09/14/20-empresas-mexicanas-mas-importantes-por-ingresos",
+        "image": "https://cdn-3.expansion.mx/dims4/default/b8d3a92/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F51%2Ff6%2F21b62a3d463b924c0dc392c7cd62%2Fempresas-mexicanas-mas-importantes.jpg",
         "source": "Expansión",
-        "published": "2026-09-13T23:31:07+00:00"
-      },
-      {
-        "title": "NFL México 2026: la lista de precios de los boletos para ver a los 49ers vs. Vikings",
-        "link": "https://expansion.mx/tendencias/2026/09/13/nfl-ciudad-de-mexico-boletos-precios-experiencias-vip",
-        "image": "https://cdn-3.expansion.mx/dims4/default/b0a23d7/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcherry-brightspot.s3.amazonaws.com%2Fmedia%2F2014%2F11%2F16%2Fsan-francisco-49ers-nfl.jpg",
-        "source": "Expansión",
-        "published": "2026-09-13T20:35:02+00:00"
+        "published": "2026-09-14T22:40:53+00:00"
       }
     ],
     "guatemala": [
       {
-        "title": "Somos Guate: 205 años de independencia y el pulso de una identidad que no se rinde",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/somos-guate-205-anos-de-independencia-y-el-pulso-de-una-identidad-que-no-se-rinde/",
+        "title": "La jornada de 1,821: los protagonistas y el impulso popular detrás del acta",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/la-jornada-de-1821-los-protagonistas-y-el-impulso-popular-detras-del-acta/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-09-14T17:30:00+00:00"
+        "published": "2026-09-15T16:20:00+00:00"
       },
       {
-        "title": "Fervor Patrio",
-        "link": "https://lahora.gt/editorial/la-hora/2026/09/14/fervor-patrio/",
+        "title": "¿Qué ver este 15 de septiembre? Estas son las series que arrasaron en los Emmy 2026",
+        "link": "https://lahora.gt/lh-bienestar/la-hora/2026/09/15/que-ver-este-15-de-septiembre-estas-son-las-series-que-arrasaron-en-los-emmy-2026/",
         "image": null,
         "source": "La Hora",
-        "published": "2026-09-14T17:29:14+00:00"
+        "published": "2026-09-15T16:19:44+00:00"
       },
       {
-        "title": "Guatemala vs. El Salvador: Precios y dónde comprar las entradas para la Liga de Naciones de Concacaf",
-        "link": "https://lahora.gt/secciones-para-ti/deportes/jcortega/2026/09/14/guatemala-vs-el-salvador-precios-y-donde-comprar-las-entradas-para-la-liga-de-naciones-de-concacaf-now/",
-        "image": null,
-        "source": "La Hora",
-        "published": "2026-09-14T17:25:48+00:00"
-      },
-      {
-        "title": "China rechaza la idea de que está en una “competencia maliciosa” con EE.UU. por el control de la IA",
-        "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/china-rechaza-la-idea-de-que-esta-en-una-competencia-maliciosa-con-ee-uu-por-el-control-de-la-ia/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-09-14T17:09:58+00:00"
-      },
-      {
-        "title": "¿Por incumplir una orden? Inmigrante que se autodeportó recibe multa de casi US$2 millones",
-        "link": "https://www.prensalibre.com/internacional/por-incumplir-una-orden-inmigrante-que-se-autodeporto-recibe-multa-de-casi-us2-millones/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-09-14T17:02:12+00:00"
-      },
-      {
-        "title": "Nueva imagen, mismos sabores: Gaseosas Salvavidas se reinventa",
-        "link": "https://lahora.gt/lh-comercial/redaccioncomercial/2026/09/14/nueva-imagen-mismos-sabores-gaseosas-salvavidas-se-reinventa/",
-        "image": null,
-        "source": "La Hora",
-        "published": "2026-09-14T17:00:23+00:00"
-      },
-      {
-        "title": "Revelan los precios de los boletos para ver a la Selección de Guatemala en la Liga de Naciones",
-        "link": "https://www.prensalibre.com/deportes/futbol-nacional/revelan-los-precios-de-los-boletos-para-ver-a-la-seleccion-de-guatemala-en-la-liga-de-naciones-breaking/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-09-14T16:58:00+00:00"
-      },
-      {
-        "title": "«Están en riesgo» advierte la ONU sobre los derechos humanos ante el avance de la IA",
-        "link": "https://lahora.gt/internacionales/agenciaefe/2026/09/14/estan-en-riesgo-advierte-la-onu-sobre-los-derechos-humanos-ante-el-avance-de-la-ia/",
-        "image": null,
-        "source": "La Hora",
-        "published": "2026-09-14T16:55:09+00:00"
-      },
-      {
-        "title": "PNC revela cómo detectó a señalada de hurtar celulares en concierto de Quetzaltenango",
-        "link": "https://www.prensalibre.com/guatemala/justicia/pnc-revela-como-detecto-a-senalada-de-hurtar-celulares-en-concierto-de-quetzaltenango-breaking/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-09-14T16:53:47+00:00"
-      },
-      {
-        "title": "Plan K’atun para 2052 prevé aprobación en marzo de 2027; proceso de consulta continúa",
-        "link": "https://lahora.gt/nacionales/kjordan/2026/09/14/plan-katun-para-2052-preve-aprobacion-en-marzo-de-2027-proceso-de-consulta-continua-now/",
-        "image": null,
-        "source": "La Hora",
-        "published": "2026-09-14T16:53:45+00:00"
-      },
-      {
-        "title": "Donald Trump asegura que él es el único control que el avance de la IA necesita",
-        "link": "https://lahora.gt/internacionales/agenciaefe/2026/09/14/donald-trump-asegura-que-el-es-el-unico-control-que-el-avance-de-la-ia-necesita/",
-        "image": null,
-        "source": "La Hora",
-        "published": "2026-09-14T16:50:21+00:00"
-      },
-      {
-        "title": "Shakira en su llegada a España: \"Aquí pasé los años más importantes de mi vida\"",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/shakira-en-su-llegada-a-espana-aqui-pase-los-anos-mas-importantes-de-mi-vida/",
+        "title": "Connacionales celebran la independencia en EE. UU. como en casa",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/connacionales-celebran-la-independencia-en-ee-uu-como-en-casa/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-09-14T16:30:00+00:00"
+        "published": "2026-09-15T16:06:00+00:00"
       },
       {
-        "title": "La OMS felicita al tenista Zverev: \"la diabetes no tiene que limitar los sueños de nadie\"",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/la-oms-felicita-al-tenista-zverev-la-diabetes-no-tiene-que-limitar-los-suenos-de-nadie/",
-        "image": null,
-        "source": "Diario de Centroamérica",
-        "published": "2026-09-14T16:15:00+00:00"
-      },
-      {
-        "title": "Zverev, el niño al que la diabetes no le pudo ganar: campeón del US Open",
-        "link": "https://www.prensalibre.com/deportes/deporte-internacional/zverev-el-nino-al-que-la-diabetes-no-le-pudo-ganar-campeon-del-us-open-breaking/",
+        "title": "Los tres puntos sobre las reformas al IUSI que explica Óscar Chile Monroy en cuanto a viviendas y Airbnb",
+        "link": "https://www.prensalibre.com/economia/los-tres-puntos-sobre-las-reformas-al-iusi-que-explica-oscar-chile-monroy-en-cuanto-a-viviendas-y-airbnb/",
         "image": null,
         "source": "Prensa Libre — Economía",
-        "published": "2026-09-14T16:04:47+00:00"
+        "published": "2026-09-15T16:00:00+00:00"
       },
       {
-        "title": "Asueto del 15 de septiembre: Opciones para disfrutar en la capital y sus alrededores",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/asueto-del-15-de-septiembre-siete-lugares-para-disfrutar-en-la-capital-y-municipios-cercanos/",
+        "title": "MARN inicia estudios tras alteración del agua en el río Las Vacas y advierte acciones legales",
+        "link": "https://lahora.gt/nacionales/dguzman/2026/09/15/marn-inicia-estudios-tras-alteracion-del-agua-en-el-rio-las-vacas-y-advierte-acciones-legales/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-15T15:46:03+00:00"
+      },
+      {
+        "title": "Abren convocatoria para Festival de Junio 2027",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/abren-convocatoria-para-festival-de-junio-2027/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-09-14T16:00:00+00:00"
+        "published": "2026-09-15T15:45:00+00:00"
       },
       {
-        "title": "Premios Emmy 2026: cuándo son, a qué hora y dónde ver la gala",
-        "link": "https://www.prensalibre.com/vida/escenario/premios-emmy-2026-cuando-son-a-que-hora-y-donde-ver-la-gala/",
+        "title": "Presidente Asfura: La verdadera independencia «se logra trabajando y construyendo oportunidades»",
+        "link": "https://lahora.gt/internacionales/agenciaefe/2026/09/15/presidente-asfura-la-verdadera-independencia-se-logra-trabajando-y-construyendo-oportunidades/",
         "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-09-14T15:42:46+00:00"
+        "source": "La Hora",
+        "published": "2026-09-15T15:40:16+00:00"
       },
       {
-        "title": "¿La IA es una amenaza real o hay exageración? Las tres posturas que enfrentan a los expertos",
-        "link": "https://www.prensalibre.com/internacional/la-ia-es-una-amenaza-real-o-hay-exageracion-las-tres-posturas-que-enfrentan-a-los-expertos/",
+        "title": "Desfile escolar de bandas pasa frente al Palacio Nacional de la Cultura para conmemorar el 205 años de la Independencia",
+        "link": "https://lahora.gt/nacionales/dguzman/2026/09/15/desfile-escolar-de-bandas-pasa-frente-al-palacio-nacional-de-la-cultura-para-conmemorar-el-205-anos-de-la-independencia/",
         "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-09-14T15:16:56+00:00"
+        "source": "La Hora",
+        "published": "2026-09-15T15:12:06+00:00"
       },
       {
-        "title": "El técnico guatemalteco Amarini Villatoro pone a Cartaginés líder en Costa Rica y ahora va por las semifinales de la Copa Centroamericana",
-        "link": "https://www.prensalibre.com/deportes/futbol-internacional/el-tecnico-guatemalteco-amarini-villatoro-pone-a-cartagines-lider-en-costa-rica-y-ahora-va-por-las-semifinales-de-la-copa-centroamericana-breaking/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-09-14T15:10:54+00:00"
-      },
-      {
-        "title": "Desfile 15 de septiembre: 122 bandas estudiantiles protagonizarán el recorrido",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/desfile-15-de-septiembre-122-bandas-estudiantiles-protagonizaran-el-recorrido/",
+        "title": "Mujeres indígenas impulsan proyectos de conservación forestal con Q25.3 millones",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/mujeres-indigenas-impulsan-proyectos-de-conservacion-forestal-con-q25-3-millones/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-09-14T15:00:00+00:00"
+        "published": "2026-09-15T15:00:00+00:00"
       },
       {
-        "title": "Juzgados de Turno habilitados durante las fiestas patrias",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/juzgados-de-turno-habilitados-durante-las-fiestas-patrias/",
+        "title": "“Es una bofetada para las mujeres”: las fuertes críticas de deportistas de élite al polémico anuncio de Sydney Sweeney para una casa de apuestas",
+        "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/es-una-bofetada-para-las-mujeres-las-fuertes-criticas-de-deportistas-de-elite-al-polemico-anuncio-de-sydney-sweeney-para-una-casa-de-apuestas/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-09-15T14:55:07+00:00"
+      },
+      {
+        "title": "🔴 En Vivo | Desfile Cívico Escolar, 205 años de Independencia",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/%f0%9f%94%b4-en-vivo-desfile-civico-escolar-205-anos-de-independencia/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-09-14T14:00:00+00:00"
+        "published": "2026-09-15T14:46:45+00:00"
+      },
+      {
+        "title": "EN VIVO: Desfile Cívico Escolar llena de color y tradición la ciudad capital este 15 de septiembre",
+        "link": "https://www.prensalibre.com/vida/escenario/en-vivo-desfile-civico-escolar-llena-de-color-y-tradicion-la-ciudad-capital-este-15-de-septiembre/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-09-15T14:32:58+00:00"
+      },
+      {
+        "title": "El gigante sagrado que abraza nuestra historia y lucha contra el tiempo",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/el-gigante-sagrado-que-abraza-nuestra-historia-y-lucha-contra-el-tiempo/",
+        "image": null,
+        "source": "Diario de Centroamérica",
+        "published": "2026-09-15T14:30:00+00:00"
+      },
+      {
+        "title": "Estas agencias bancarias atenderán este 15 de septiembre pese al asueto de Independencia",
+        "link": "https://lahora.gt/nacionales/dguzman/2026/09/15/estas-agencias-bancarias-atenderan-este-15-de-septiembre-pese-al-asueto-de-independencia/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-15T14:28:58+00:00"
+      },
+      {
+        "title": "¿Felicidad o aislamiento? El verdadero costo mental de amar el trabajo remoto",
+        "link": "https://lahora.gt/lh-bienestar/ralvarado/2026/09/15/felicidad-o-aislamiento-el-verdadero-costo-mental-de-amar-el-trabajo-remoto/",
+        "image": null,
+        "source": "La Hora",
+        "published": "2026-09-15T14:15:08+00:00"
+      },
+      {
+        "title": "Amatitlán rompe su racha de ocho derrotas y así marcha la Liga Primera División",
+        "link": "https://www.prensalibre.com/deportes/futbol-nacional/amatitlan-rompe-su-racha-de-ocho-derrotas-y-asi-marcha-la-liga-primera-division/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-09-15T14:00:00+00:00"
+      },
+      {
+        "title": "252 municipios enfrentan vulnerabilidad alta y muy alta ante el déficit hídrico en Guatemala, según el Maga",
+        "link": "https://www.prensalibre.com/guatemala/252-municipios-enfrentan-vulnerabilidad-alta-y-muy-alta-ante-el-deficit-hidrico-en-guatemala-segun-el-maga/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-09-15T14:00:00+00:00"
+      },
+      {
+        "title": "El Acta de la Independencia: ¿dónde y cómo se encuentra el histórico documento?",
+        "link": "https://www.prensalibre.com/vida/escenario/el-acta-de-la-independencia-donde-se-encuentra-el-historico-documento/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-09-15T12:12:00+00:00"
+      },
+      {
+        "title": "Jantelagen, la idea que explica por qué los suecos valoran la humildad y no ponerse por encima de los demás",
+        "link": "https://www.prensalibre.com/internacional/bbc-news-mundo-internacional/jantelagen-la-idea-que-explica-por-que-los-suecos-valoran-la-humildad-y-no-ponerse-por-encima-de-los-demas/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-09-15T11:29:43+00:00"
+      },
+      {
+        "title": "Desnutrición aguda: 32 niños han muerto en Guatemala en 2026 y hay riesgo de que la cifra aumente por la sequía",
+        "link": "https://www.prensalibre.com/guatemala/comunitario/desnutricion-aguda-32-ninos-han-muerto-en-guatemala-en-2026-y-hay-riesgo-de-que-la-cifra-aumente-por-la-sequia/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-09-15T11:00:00+00:00"
       }
     ],
     "elsalvador": [
       {
-        "title": "Full Home se expande y abre su segunda tienda en San Miguel",
-        "link": "https://diarioelsalvador.com/decomercio/full-home-se-expande-y-abre-su-segunda-tienda-en-san-miguel/852845/",
+        "title": "Secretario de Estado de EE. UU., Marco Rubio, felicita a El Salvador por su Día de la Independencia",
+        "link": "https://diarioelsalvador.com/depais/secretario-de-estado-de-ee-uu-marco-rubio-felicita-a-el-salvador-por-su-dia-de-la-independencia/853134/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-09-14T17:40:35+00:00"
+        "published": "2026-09-15T16:15:08+00:00"
       },
       {
-        "title": "El Salvador da inicio al programa regional de resiliencia climática tras acuerdo entre el BCIE y el MARN",
-        "link": "https://www.eldiariodehoy.com/noticias/nacionales/el-salvador-da-inicio-al-programa-regional-de-resiliencia-climatica-tras-acuerdo-entre-el-bcie-y-el-marn/93180/2026/",
-        "image": null,
-        "source": "El Diario de Hoy",
-        "published": "2026-09-14T17:20:48+00:00"
-      },
-      {
-        "title": "FOX adquiere derechos de Nations League y eliminatorias mundialistas de Concacaf",
-        "link": "https://diarioelsalvador.com/dedeportes/fox-adquiere-derechos-de-nations-league-y-eliminatorias-mundialistas-de-concacaf/852840/",
+        "title": "FOTOS: San Salvador se viste de azul y blanco para celebrar 205 años de independencia",
+        "link": "https://diarioelsalvador.com/dediversion/fotos-san-salvador-se-viste-de-azul-y-blanco-para-celebrar-205-anos-de-independencia/853135/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-09-14T17:13:14+00:00"
+        "published": "2026-09-15T16:11:03+00:00"
       },
       {
-        "title": "El Salvador y Canadá conmemoran 65 años de amistad con jornada de reforestación en La Paz",
-        "link": "https://diarioelsalvador.com/depais/el-salvador-y-canada-conmemoran-65-anos-de-amistad-con-jornada-de-reforestacion-en-la-paz/852846/",
+        "title": "Civismo, belleza y fervor patriótico: Miles de estudiantes marchan por la Independencia",
+        "link": "https://www.eldiariodehoy.com/fotogalerias/civismo-belleza-y-fervor-patriotico-miles-de-estudiantes-marchan-por-la-independencia/93314/2026/",
+        "image": null,
+        "source": "El Diario de Hoy",
+        "published": "2026-09-15T16:10:12+00:00"
+      },
+      {
+        "title": "Nos independizamos de España, pero aún tenemos algunas cadenas",
+        "link": "https://www.eldiariodehoy.com/opinion/nos-independizamos-de-espana-pero-aun-tenemos-algunas-cadenas/93349/2026/",
+        "image": null,
+        "source": "El Diario de Hoy",
+        "published": "2026-09-15T16:05:05+00:00"
+      },
+      {
+        "title": "EE.UU. celebra con El Salvador «nuestra aspiración compartida por un futuro próspero»",
+        "link": "https://www.eldiariodehoy.com/noticias/nacionales/ee-uu-celebra-con-el-salvador-nuestra-aspiracion-compartida-por-un-futuro-prospero/93351/2026/",
+        "image": null,
+        "source": "El Diario de Hoy",
+        "published": "2026-09-15T16:01:26+00:00"
+      },
+      {
+        "title": "Un ejemplo de Google afirma que «la IA tiene el potencial de matarnos a todos»",
+        "link": "https://diarioelsalvador.com/deinnovacion/un-ejemplo-de-google-afirma-que-la-ia-tiene-el-potencial-de-matarnos-a-todos/853131/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-09-14T17:07:17+00:00"
+        "published": "2026-09-15T15:48:18+00:00"
       },
       {
-        "title": "Oasis anuncia una nueva gira mundial para 2027",
-        "link": "https://diarioelsalvador.com/dediversion/oasis-anuncia-una-nueva-gira-mundial-para-2027/852841/",
+        "title": "Devastación de la Amazonía brasileña amenaza con alterar la mayor «máquina de lluvia» del planeta",
+        "link": "https://diarioelsalvador.com/devida/devastacion-de-la-amazonia-brasilena-amenaza-con-alterar-la-mayor-maquina-de-lluvia-del-planeta/853119/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-09-14T17:01:35+00:00"
+        "published": "2026-09-15T15:34:24+00:00"
       },
       {
-        "title": "Donald Trump asegura que hay una «conspiración enfermiza» contra la IA",
-        "link": "https://www.eldiariodehoy.com/noticias/internacionales/donald-trump-inteligencia-artificial/93177/2026/",
+        "title": "Salvadoreños en Milán conmemoran Independencia de Centroamérica",
+        "link": "https://www.eldiariodehoy.com/noticias/nacionales/salvadorenos-en-milan-conmemoran-independencia-de-centroamerica/93329/2026/",
         "image": null,
         "source": "El Diario de Hoy",
-        "published": "2026-09-14T17:00:00+00:00"
+        "published": "2026-09-15T15:28:51+00:00"
       },
       {
-        "title": "Precio del petróleo con fuerte alza por tensión en Oriente Medio",
-        "link": "https://www.eldiariodehoy.com/negocios/precio-del-petroleo-con-fuerte-alza-por-tension-en-oriente-medio/93164/2026/",
+        "title": "Estudiantes muestran civismo y donaire en desfiles de Independencia",
+        "link": "https://www.eldiariodehoy.com/noticias/nacionales/estudiantes-muestran-civismo-y-donaire-en-desfiles-de-independencia/93318/2026/",
         "image": null,
         "source": "El Diario de Hoy",
-        "published": "2026-09-14T16:55:55+00:00"
+        "published": "2026-09-15T15:08:48+00:00"
       },
       {
-        "title": "Los combustibles se disparan hasta los $5.14 desde mañana",
-        "link": "https://www.eldiariodehoy.com/negocios/los-combustibles-se-disparan-hasta-los-5-14-desde-manana/93138/2026/",
-        "image": null,
-        "source": "El Diario de Hoy",
-        "published": "2026-09-14T16:35:47+00:00"
-      },
-      {
-        "title": "Todo lo que debes saber de Primera: lidera Metapán, aprieta Limeño y la lluvia frena",
-        "link": "https://www.eldiariodehoy.com/deportes/primera-jornada-diez-futbol-metapan/93165/2026/",
-        "image": null,
-        "source": "El Diario de Hoy",
-        "published": "2026-09-14T16:34:41+00:00"
-      },
-      {
-        "title": "Capturan a traficantes de droga en Ahuachapán Centro",
-        "link": "https://diarioelsalvador.com/depais/capturan-a-traficantes-de-droga-en-ahuachapan-centro/852834/",
+        "title": "«Se lo merece»: Flick apoya que Lamine Yamal reclame el Balón de Oro",
+        "link": "https://diarioelsalvador.com/dedeportes/se-lo-merece-flick-apoya-que-lamine-yamal-reclame-el-balon-de-oro/853124/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-09-14T16:29:10+00:00"
+        "published": "2026-09-15T15:07:07+00:00"
       },
       {
-        "title": "Pandilleros de la MS-13 reciben condenas de hasta 45 años de cárcel",
-        "link": "https://diarioelsalvador.com/depais/pandilleros-de-la-ms-13-reciben-condenas-de-hasta-45-anos-de-carcel/852829/",
+        "title": "Temperaturas de hasta 40° Celsius para este martes en El Salvador",
+        "link": "https://diarioelsalvador.com/depais/temperaturas-de-hasta-40-celsius-para-este-martes-en-el-salvador/853120/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-09-14T16:17:56+00:00"
+        "published": "2026-09-15T14:47:44+00:00"
       },
       {
-        "title": "Plenitud del Barcelona, que no tiene comparación aún en todo Europa",
-        "link": "https://www.eldiariodehoy.com/deportes/plenitud-barcelona-europa-laliga/93163/2026/",
+        "title": "El diésel en EEUU alcanza un nuevo récord de $6.27 por galón",
+        "link": "https://www.eldiariodehoy.com/negocios/el-diesel-en-eeuu-alcanza-un-nuevo-record-de-6-27-por-galon/93309/2026/",
         "image": null,
         "source": "El Diario de Hoy",
-        "published": "2026-09-14T15:58:51+00:00"
+        "published": "2026-09-15T14:45:49+00:00"
       },
       {
-        "title": "Cachiporristas salvadoreñas: así lucían en el pasado",
-        "link": "https://www.eldiariodehoy.com/fotogalerias/cachiporristas-salvadorenas-del-pasado/91981/2026/",
+        "title": "Ministra: “Tenemos 205 años de independencia, pero muy pocos años de libertad”",
+        "link": "https://www.eldiariodehoy.com/noticias/nacionales/ministra-de-educacion-tenemos-205-anos-de-independencia-pero-muy-pocos-anos-de-libertad/93310/2026/",
         "image": null,
         "source": "El Diario de Hoy",
-        "published": "2026-09-14T15:37:59+00:00"
+        "published": "2026-09-15T14:33:23+00:00"
       },
       {
-        "title": "Guatemala busca contener crisis por combustibles tras bloqueos y disturbios",
-        "link": "https://www.eldiariodehoy.com/noticias/internacionales/guatemala-crisis-bloqueos-combustibles/93161/2026/",
+        "title": "La fase final de la Copa Presidente se traslada al próximo año",
+        "link": "https://www.eldiariodehoy.com/deportes/copa-presidente-indes-fesfut/93302/2026/",
         "image": null,
         "source": "El Diario de Hoy",
-        "published": "2026-09-14T15:26:49+00:00"
+        "published": "2026-09-15T13:30:00+00:00"
       }
     ]
   }
