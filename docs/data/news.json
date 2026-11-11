@@ -1,48 +1,62 @@
 {
-  "generated_at": "2026-11-10T19:22:05.858096+00:00",
+  "generated_at": "2026-11-11T19:16:13.047496+00:00",
   "sections": {
     "global": [
       {
-        "title": "Pizza Hut Looks to Sell $1 Billion of Bonds to Fund Its Buyout",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/pizza-hut-looks-to-sell-1-billion-of-bonds-to-fund-its-buyout",
+        "title": "Marvell-Lumentum Deal Odds Near Coin Flip",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/marvell-lumentum-deal-odds-near-coin-flip-video",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-11-10T19:01:24+00:00"
+        "published": "2026-11-11T19:05:10+00:00"
       },
       {
-        "title": "Bank of Canada Officials Say Uncertainty Doesn’t Rule Out Hikes",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/bank-of-canada-officials-say-uncertainty-doesn-t-rule-out-hikes",
+        "title": "Canadian Heavy Crude Rebounds Amid Cheaper Tanker Costs",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/canadian-heavy-crude-rebounds-amid-cheaper-tanker-costs",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-11-10T18:30:04+00:00"
+        "published": "2026-11-11T19:04:05+00:00"
       },
       {
-        "title": "US Raises Forecasts for 2027 Gasoline and Diesel Prices",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/us-raises-forecasts-for-2027-gasoline-and-diesel-prices",
+        "title": "Anticipate Some Defense Deals Pausing: Antenucci",
+        "link": "https://www.bloomberg.com/news/videos/2026-11-11/anticipate-some-defense-deals-pausing-antenucci-video",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-11-10T17:07:15+00:00"
+        "published": "2026-11-11T19:01:04+00:00"
       },
       {
-        "title": "Bonds Tumble Most Since Tariff Meltdown on Rising Rate-Hike Bets",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/treasuries-slide-as-hot-us-inflation-cements-december-rate-bets",
+        "title": "Credit Traders Fume as $1 Billion Utz Loan Crumbles Within Weeks",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/credit-traders-fume-as-1-billion-utz-loan-crumbles-within-weeks",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-11-10T13:41:23+00:00"
+        "published": "2026-11-11T18:59:54+00:00"
       },
       {
-        "title": "GFL Environmental Rejects Takeover Bids, Opts to Remain Public",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-10/gfl-environmental-rejects-takeover-bids-opts-to-remain-public",
+        "title": "Polymarket Cuts Workforce After Stumbles Prompt Reorganization",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-11/polymarket-cuts-workforce-after-stumbles-prompt-reorganization",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-11-10T13:30:48+00:00"
+        "published": "2026-11-11T18:50:43+00:00"
       },
       {
-        "title": "Stocks, Bonds Fall as Inflation Spurs Fed Caution: Markets Wrap",
-        "link": "https://www.bloomberg.com/news/articles/2026-11-09/stock-market-today-dow-s-p-live-updates",
+        "title": "US Stocks Climb as Wall Street Gets Fresh AI Fuel: Markets Wrap",
+        "link": "https://www.bloomberg.com/news/articles/2026-11-10/stock-market-today-dow-s-p-live-updates",
         "image": null,
         "source": "Bloomberg Markets",
-        "published": "2026-11-09T22:16:53+00:00"
+        "published": "2026-11-10T22:32:05+00:00"
+      },
+      {
+        "title": "Lessons from a miserable month for hedge funds",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/10/lessons-from-a-miserable-month-for-hedge-funds",
+        "image": null,
+        "source": "The Economist — Finance",
+        "published": "2026-11-10T20:47:39+00:00"
+      },
+      {
+        "title": "For boomers, economic boom times are over",
+        "link": "https://www.economist.com/finance-and-economics/2026/11/10/for-boomers-economic-boom-times-are-over",
+        "image": null,
+        "source": "The Economist — Finance",
+        "published": "2026-11-10T20:28:56+00:00"
       },
       {
         "title": "The future of Trumponomics: compromise or failure",
@@ -71,64 +85,78 @@
         "image": null,
         "source": "The Economist — Finance",
         "published": "2026-11-05T10:22:20+00:00"
-      },
-      {
-        "title": "William Nordhaus, favourite economist of the right and the left",
-        "link": "https://www.economist.com/finance-and-economics/2026/11/05/william-nordhaus-favourite-economist-of-the-right-and-the-left",
-        "image": null,
-        "source": "The Economist — Finance",
-        "published": "2026-11-05T10:17:54+00:00"
-      },
-      {
-        "title": "What markets make of the midterms",
-        "link": "https://www.economist.com/finance-and-economics/2026/11/04/what-markets-make-of-the-midterms",
-        "image": null,
-        "source": "The Economist — Finance",
-        "published": "2026-11-04T21:48:18+00:00"
       }
     ],
     "wallstreet": [
       {
-        "title": "AMD’s stock fades as investors weigh whether Nvidia’s turmoil will mean lasting wins",
-        "link": "https://www.marketwatch.com/story/amds-stock-fades-as-investors-weigh-whether-nvidias-turmoil-will-mean-lasting-wins-1ecfbc5e?mod=mw_rss_topstories",
-        "image": "https://images.mktw.net/im-86112590",
+        "title": "Nvidia is spending more than ever on Washington lobbying. It may not stop Congress from limiting China chip sales now.",
+        "link": "https://www.marketwatch.com/story/nvidia-is-spending-more-than-ever-on-washington-lobbying-it-still-may-not-be-able-to-stop-congress-from-limiting-its-china-chip-sales-now-d4c34c66?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-77037954",
         "source": "MarketWatch Top Stories",
-        "published": "2026-11-10T19:17:00+00:00"
+        "published": "2026-11-11T18:48:00+00:00"
       },
       {
-        "title": "‘It feels like he’s quietly building a separate life’: My husband inherited $500,000, but he refuses to spend it on our home",
-        "link": "https://www.marketwatch.com/story/it-feels-like-hes-quietly-building-a-separate-life-my-husband-inherited-500-000-but-he-refuses-to-spend-it-on-our-home-06535cff?mod=mw_rss_topstories",
-        "image": "https://images.mktw.net/im-88923729",
+        "title": "Oracle’s stock is totally misunderstood and should be a ‘go-to’ AI play, says this analyst",
+        "link": "https://www.marketwatch.com/story/oracles-stock-is-totally-misunderstood-and-should-be-a-go-to-ai-play-says-this-analyst-2a87e80d?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-37217183",
         "source": "MarketWatch Top Stories",
-        "published": "2026-11-10T19:00:00+00:00"
+        "published": "2026-11-11T18:13:00+00:00"
       },
       {
-        "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
-        "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-        "image": "https://images.mktw.net/im-49247042",
-        "source": "MarketWatch Top Stories",
-        "published": "2026-11-10T18:45:00+00:00"
+        "title": "American Airlines brings fresh food back to NY-Chicago first class for first time since 2019",
+        "link": "https://www.cnbc.com/2026/11/11/american-airlines-first-class-chicago-new-york.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-11-11T17:34:18+00:00"
       },
       {
-        "title": "Americans are more concerned about retirement than ever. Politicians should pay attention.",
-        "link": "https://www.marketwatch.com/story/retirement-is-now-part-of-the-affordability-crisis-politicians-should-pay-attention-2923b2d7?mod=mw_rss_topstories",
-        "image": "https://images.mktw.net/im-29541599",
-        "source": "MarketWatch Top Stories",
-        "published": "2026-11-10T18:41:00+00:00"
+        "title": "JetBlue unveils new first class seats to bring back profits",
+        "link": "https://www.cnbc.com/2026/11/11/jetblue-ceo-premium.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-11-11T17:20:41+00:00"
       },
       {
-        "title": "The FDA now says Ozempic, Zepbound and other GLP-1 drugs have a possible risk of vision loss",
-        "link": "https://www.marketwatch.com/story/ozempic-zepbound-and-other-glp-1-drugs-have-a-possible-risk-of-vision-loss-b3738f36?mod=mw_rss_topstories",
-        "image": "https://images.mktw.net/im-25461335",
+        "title": "Has Nvidia flown too close to the sun? One analyst warns of major scrutiny ahead.",
+        "link": "https://www.marketwatch.com/story/has-nvidia-flown-too-close-to-the-sun-one-analyst-warns-of-major-scrutiny-ahead-a323c4dd?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-89576474",
         "source": "MarketWatch Top Stories",
-        "published": "2026-11-10T18:21:00+00:00"
+        "published": "2026-11-11T17:13:00+00:00"
       },
       {
-        "title": "Even Wall Street’s lone Nvidia bear says forcing out CEO Jensen Huang ‘would be a mistake for everyone’",
-        "link": "https://www.marketwatch.com/story/wall-streets-only-nvidia-bear-says-forcing-out-ceo-jensen-huang-would-be-a-mistake-for-everyone-78043738?mod=mw_rss_topstories",
-        "image": "https://images.mktw.net/im-55836112",
+        "title": "Need money for a down payment? More employers are offering to help.",
+        "link": "https://www.marketwatch.com/story/need-money-for-a-down-payment-more-employers-are-offering-to-help-59c57da3?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-55718088",
         "source": "MarketWatch Top Stories",
-        "published": "2026-11-10T18:16:00+00:00"
+        "published": "2026-11-11T17:06:00+00:00"
+      },
+      {
+        "title": "Anthropic’s IPO roadshow kicks off — and the big money is already lining up",
+        "link": "https://www.marketwatch.com/story/anthropics-ipo-roadshow-kicks-off-and-the-big-money-is-already-lining-up-7cdd4f8b?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-91816851",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-11-11T16:03:00+00:00"
+      },
+      {
+        "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+        "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+        "image": "https://images.mktw.net/im-62799282",
+        "source": "MarketWatch Top Stories",
+        "published": "2026-11-11T15:30:00+00:00"
+      },
+      {
+        "title": "Measles is surging in the U.S. — and outbreaks can cost millions",
+        "link": "https://www.cnbc.com/2026/11/11/measles-outbreak-us-economic-cost.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-11-11T15:14:53+00:00"
+      },
+      {
+        "title": "Fossil CEO says turnaround is ahead of plan as sales return to growth",
+        "link": "https://www.cnbc.com/2026/11/10/fossil-fosl-q3-2026-earnings.html",
+        "image": null,
+        "source": "CNBC Top News",
+        "published": "2026-11-10T22:39:30+00:00"
       },
       {
         "title": "Rivian CEO says new R2 SUV, autonomy make 2027 an ‘inflection year’ as EV maker marks five years since IPO",
@@ -143,34 +171,6 @@
         "image": null,
         "source": "CNBC Top News",
         "published": "2026-11-10T13:00:01+00:00"
-      },
-      {
-        "title": "PepsiCo to cut about 1,000 jobs as North American business struggles",
-        "link": "https://www.cnbc.com/2026/11/09/pepsico-north-america-job-cuts.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-11-09T23:31:17+00:00"
-      },
-      {
-        "title": "Skydance outlines its $6 billion in planned cost savings. Here's the breakdown",
-        "link": "https://www.cnbc.com/2026/11/09/skydance-cost-savings-breakdown.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-11-09T23:14:38+00:00"
-      },
-      {
-        "title": "Lucid misses Wall Street’s earnings expectations, expands loan from Saudi Arabia fund",
-        "link": "https://www.cnbc.com/2026/11/09/lucid-group-lcid-earnings-q3-2026.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-11-09T23:05:53+00:00"
-      },
-      {
-        "title": "Children’s Place files for bankruptcy protection, seeks buyer",
-        "link": "https://www.cnbc.com/2026/11/09/childrens-place-chapter-11-sale.html",
-        "image": null,
-        "source": "CNBC Top News",
-        "published": "2026-11-09T20:57:46+00:00"
       },
       {
         "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
@@ -217,46 +217,60 @@
     ],
     "fintech": [
       {
-        "title": "AJ Foyt Racing And GM Defense Launch Project Accelerator",
-        "link": "https://www.forbes.com/sites/brucemartin/2026/11/10/aj-foyt-racing-and-gm-defense-launch-project-accelerator/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6af2a1d4a0a0b6faea7824c9/0x0.png",
+        "title": "Irma P. Hall, ‘Soul Food’ And ‘A Family Thing’ Star, Dies At 91",
+        "link": "https://www.forbes.com/sites/timlammers/2026/11/11/irma-p-hall-soul-food-and-a-family-thing-star-dies-at-91/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6af4bac9666f7e809a79ed4e/0x0.jpg?width=960&precrop=2035%2C1145%2Cx146%2Cy284",
         "source": "Forbes Business",
-        "published": "2026-11-10T18:00:00+00:00"
+        "published": "2026-11-11T19:05:31+00:00"
       },
       {
-        "title": "BTS’ RM Gets His Own Stanford University Course",
-        "link": "https://www.forbes.com/sites/desjahaltvater/2026/11/10/bts-rm-gets-his-own-stanford-university-course/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6af3506c7cf5ebeb7674f702/0x0.jpg",
+        "title": "Spurs’ Victor Wembanyama Matches NBA Mark With 40 Points In 25 Minutes",
+        "link": "https://www.forbes.com/sites/barrymbloom/2026/11/11/spurs-victor-wembanyama-matches-nba-mark-with-40-points-in-25-minutes/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6af4ad2b80daa92793055e7c/0x0.jpg?width=960",
         "source": "Forbes Business",
-        "published": "2026-11-10T17:46:38+00:00"
+        "published": "2026-11-11T18:43:11+00:00"
       },
       {
-        "title": "Bob’s Discount Furniture Never Has A Sale Yet It’s Thriving In A Challenged Market",
-        "link": "https://www.forbes.com/sites/pamdanziger/2026/11/10/bobs-discount-furniture-never-has-a-sale-yet-its-thriving-in-a-challenged-market/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6af34019b19b0a3a439c83e5/0x0.jpg",
+        "title": "‘Lanterns’ Season 2 Was A Long Shot Before James Gunn And Peter Safran’s DC Studios Exit",
+        "link": "https://www.forbes.com/sites/sabrinareed/2026/11/11/lanterns-season-2-was-a-long-shot-before-james-gunn-and-peter-safrans-dc-studios-exit/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6af47f10d2a5c1342d0f5863/0x0.jpg?width=960&precrop=1920%2C1079%2Cx0%2Cy5",
         "source": "Forbes Business",
-        "published": "2026-11-10T17:40:40+00:00"
+        "published": "2026-11-11T18:19:42+00:00"
       },
       {
-        "title": "A Very Nutcracker Christmas. Why Tradition Is Finding New Value In 2026",
-        "link": "https://www.forbes.com/sites/katehardcastle/2026/11/10/a-very-nutcracker-christmas-why-tradition-is-finding-new-value-in-2026/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6af1dd47f2a112304ad666af/0x0.jpg",
+        "title": "Estiatorio Milos, A High-End Ambassador Of Greek Gastronomy And Drinks",
+        "link": "https://www.forbes.com/sites/claudiaalarcon/2026/11/11/estiatorio-milos-a-high-end-ambassador-of-greek-gastronomy-and-drinks/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6af326a53e25c0b9f5bea939/0x0.jpg",
         "source": "Forbes Business",
-        "published": "2026-11-10T17:31:24+00:00"
+        "published": "2026-11-11T17:57:22+00:00"
       },
       {
-        "title": "Gotham FC’s Turf War Exposes Bigger Problem For The NWSL",
-        "link": "https://www.forbes.com/sites/clementelisi/2026/11/10/gotham-fcs-turf-war-exposes-bigger-problem-for-the-nwsl/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6af350c5efd31da4ac2a7384/0x0.jpg",
+        "title": "‘Avengers Endgame: Encore’ Follows Up Successful Theatrical Run With Disney+ Date",
+        "link": "https://www.forbes.com/sites/timlammers/2026/11/11/avengers-endgame-encore-follows-successful-theatrical-release-with-disney-date/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/6af4a6523cc165224badebe1/0x0.jpg?width=960",
         "source": "Forbes Business",
-        "published": "2026-11-10T17:27:25+00:00"
+        "published": "2026-11-11T17:45:15+00:00"
       },
       {
-        "title": "“Shadow Lobbying”: When Is A  Lobbyist Not A Lobbyist?",
-        "link": "https://www.forbes.com/sites/williamhartung/2026/11/10/shadow-lobbying-when-is-a--lobbyist-not-a-lobbyist/",
-        "image": "https://imageio.forbes.com/specials-images/imageserve/6af351f1439aa538fd4c602a/0x0.jpg",
+        "title": "State Battles Pitting Natural Gas Vs. Electric May Go National",
+        "link": "https://www.forbes.com/sites/davidblackmon/2026/11/11/state-battles-pitting-natural-gas-heat-vs-electric-may-go-national/",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/67f7b54c78ef61c95341d0ad/0x0.jpg?width=960",
         "source": "Forbes Business",
-        "published": "2026-11-10T17:20:49+00:00"
+        "published": "2026-11-11T17:36:23+00:00"
+      },
+      {
+        "title": "Why European Central Banks Want Their Gold Back",
+        "link": "https://gfmag.com/banking/why-european-central-banks-want-their-gold-back/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-11-11T06:00:00+00:00"
+      },
+      {
+        "title": "Paraguay Bank Collapse Tests LatAm’s Credibility",
+        "link": "https://gfmag.com/economics-policy-regulation/paraguay-bank-collapse-tests-latams-credibility/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-11-10T19:24:23+00:00"
       },
       {
         "title": "A Remittance Crisis Looms in Central America",
@@ -264,6 +278,13 @@
         "image": null,
         "source": "Global Finance Magazine",
         "published": "2026-11-10T06:00:00+00:00"
+      },
+      {
+        "title": "Strong Jobs Report Eases Path for Rate Hike",
+        "link": "https://gfmag.com/news/strong-jobs-report-eases-path-for-rate-hike/",
+        "image": null,
+        "source": "Global Finance Magazine",
+        "published": "2026-11-09T17:00:00+00:00"
       },
       {
         "title": "Climate Finance Gets a Reality Check at COP31",
@@ -278,383 +299,362 @@
         "image": null,
         "source": "Global Finance Magazine",
         "published": "2026-11-06T21:33:39+00:00"
-      },
-      {
-        "title": "Paraguay Lawmakers Reject Peña’s Resignation, Seek Impeachment",
-        "link": "https://gfmag.com/economics-policy-regulation/paraguay-lawmakers-reject-penas-resignation-seek-impeachment/",
-        "image": null,
-        "source": "Global Finance Magazine",
-        "published": "2026-11-06T16:38:42+00:00"
-      },
-      {
-        "title": "Arctic Silk Road Gains Interest as a Gulf Alternative",
-        "link": "https://gfmag.com/economics-policy-regulation/arctic-silk-road-gains-interest-as-a-gulf-alternative/",
-        "image": null,
-        "source": "Global Finance Magazine",
-        "published": "2026-11-06T06:00:00+00:00"
-      },
-      {
-        "title": "Nandalal Weerasinghe: Sri Lanka’s Steady Hands",
-        "link": "https://gfmag.com/economics-policy-regulation/nandalal-weerasinghe-sri-lankas-steady-hands/",
-        "image": null,
-        "source": "Global Finance Magazine",
-        "published": "2026-11-05T06:02:00+00:00"
       }
     ],
     "mexico": [
       {
-        "title": "¡Adiós a Ibarreche, Marena y Natalia! ‘Wildwood’ CONFIRMA redoblaje tras polémica por ‘star talents’",
-        "link": "https://www.elfinanciero.com.mx/entretenimiento/2026/11/10/anuncian-regrabacion-del-doblaje-de-wildwood-tras-polemica/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/GyMUPHFZQfWvUVH987tKcpNyXWY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/RSMQU2EOGFGLRP4G3NPRPFGSFI.jpg",
-        "source": "El Financiero",
-        "published": "2026-11-10T19:18:07+00:00"
-      },
-      {
-        "title": "¿Quién es el dueño de Mi Alegría, la marca que lanza un juguete de \"se compra fierro viejo que vendan\"?",
-        "link": "https://expansion.mx/mercadotecnia/2026/11/10/quien-dueno-mi-alegria-lanza-juguete-compra-fierro-viejo",
-        "image": "https://cdn-3.expansion.mx/dims4/default/9d3080e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F3c%2Fe0%2Ff246b86343d281148d671f86ef3e%2Fel-nuevo-juguete-de-mi-alegria-es-el-carro-del-fierro-viejo.jpg",
+        "title": "Emirates busca mexicanos para cubrir vacantes y ofrece sueldos de hasta 57,000 pesos al mes en Dubái",
+        "link": "https://expansion.mx/carrera/2026/11/11/emirates-busca-trabajadores-mexico-sueldo-57-000-pesos-mes",
+        "image": "https://cdn-3.expansion.mx/dims4/default/fccfb9d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F03%2F2f%2Fcddf3fba48ae9bf8105a14b0fef5%2Fvacantes-aerolinea-emirates.jpg",
         "source": "Expansión",
-        "published": "2026-11-10T19:08:59+00:00"
+        "published": "2026-11-11T19:07:31+00:00"
       },
       {
-        "title": "El ‘R2′ frena su extradición a EU: Juez le concede un amparo al líder regional del CJNG",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/11/10/el-r2-frena-su-extradicion-a-eu-juez-le-concede-un-amparo-al-lider-regional-del-cjng/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/rkq1WaErIc50DYB3HAQIu7t6SQY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/SXIY4L5TWRCRJDMHAMEWJSTL2Q.jpg",
+        "title": "Bacheo en la México-Querétaro provoca cierre temporal: ¿Qué tramo estará inhabilitado y hasta cuándo?",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/bacheo-en-la-mexico-queretaro-provoca-cierre-temporal-que-tramo-estara-inhabilitado-y-hasta-cuando/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/sJkf-Hr8iStVu5t--XMZBrIfg2A=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WVRZRA3ZKVF7VEVRRNOAOJPMKA.jpg",
         "source": "El Financiero",
-        "published": "2026-11-10T19:06:04+00:00"
+        "published": "2026-11-11T19:02:35+00:00"
       },
       {
-        "title": "Crisis de Ueno Bank en Paraguay ‘pasa factura’ a México: Deja sin empleo a 7 mil trabajadores en 5 países",
-        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/10/crisis-de-ueno-bank-en-paraguay-pasa-factura-a-mexico-deja-sin-empleo-a-7-mil-trabajadores-en-5-paises/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/kIL_0fJsA-vNKgCrl_gz9AneTc4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/HP7GKQHC6JAJTGD4VSIKYTNFFU.jpg",
+        "title": "¿Qué negocios y conexiones de Trump investigarán los demócratas cuando tomen posesión del Congreso?",
+        "link": "https://www.elfinanciero.com.mx/mundo/2026/11/11/que-negocios-y-conexiones-de-trump-investigaran-los-democratas-cuando-tomen-posesion-del-congreso/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/M0sYaRwS10tjd0xO-c280ffmBCQ=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/WAT2TW4DVJGKVNWDILH26GRZXE.jpg",
         "source": "El Financiero",
-        "published": "2026-11-10T19:03:34+00:00"
+        "published": "2026-11-11T19:01:05+00:00"
       },
       {
-        "title": "HBO Max y Paramount+ se venderán juntos en 2027 y prometen rebaja de precio",
-        "link": "https://expansion.mx/tecnologia/2026/11/10/hbo-max-paramount-plus-juntos-2027-precio-mexico",
-        "image": "https://cdn-3.expansion.mx/dims4/default/4a99aca/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F20%2F92%2F0d5074ae403c9bd8c682f2b347d0%2Fhbo-max-paramount.png",
+        "title": "¿La CFE te cobró luz que no consumiste? Una lectura estimada puede inflar tu recibo sin que lo notes",
+        "link": "https://expansion.mx/finanzas-personales/2026/11/11/recibo-luz-mas-caro-cfe-consumo-estimado-puedes-reclamar",
+        "image": "https://cdn-3.expansion.mx/dims4/default/5d103ca/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Ff8%2F52%2Fc4ba72024fef92a9cf899ac296c2%2Fcfe-cobro-estimado-y-como-reclamarlo.jpg",
         "source": "Expansión",
-        "published": "2026-11-10T19:00:08+00:00"
+        "published": "2026-11-11T18:58:54+00:00"
       },
       {
-        "title": "Trump quería expandir la CIA en México: Agentes de EU buscaban crear unidad especial en Chihuahua",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/10/trump-queria-expandir-la-cia-en-mexico-agentes-de-eu-buscaban-crear-unidad-especial-en-chihuahua/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/cQNBVsvuNsB3eugyp-bQ-x8Zn1I=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/PXLZ4TWLQZGLDEAPYIM4YIDNPY.png",
+        "title": "¡En colaboración con Swarovski! ¿Cuándo se enciende el árbol de Navidad de El Palacio de Hierro en Polanco?",
+        "link": "https://www.elfinanciero.com.mx/estilo/2026/11/11/cuando-se-enciende-el-arbol-de-navidad-de-el-palacio-de-hierro-en-polanco/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/zQWsXvCPuFJOgrz6PneSTD_HPZs=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/FVVVT4T4AZDUPMTYT5L2KJRDRE.jpg",
         "source": "El Financiero",
-        "published": "2026-11-10T18:56:21+00:00"
+        "published": "2026-11-11T18:39:29+00:00"
       },
       {
-        "title": "Sheinbaum justifica millonaria compra de aviones Black Hawk y Super Hercules: ‘Son para seguridad’",
-        "link": "https://www.elfinanciero.com.mx/nacional/2026/11/10/sheinbaum-justifica-millonaria-compra-de-aviones-black-hawk-y-super-hercules-son-para-seguridad/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/z4qnvNvrKQuq0wx-w5kh2h835l0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/634D32CMV5HKJAYOFOK6DDQWVU.png",
+        "title": "Telmex construye dos Data Centers en Tijuana y Chihuahua; necesita más espacio para almacenar información de clientes",
+        "link": "https://expansion.mx/empresas/2026/11/11/telmex-necesita-mas-espacio-dos-nuevos-data-centers",
+        "image": "https://cdn-3.expansion.mx/dims4/default/93a2025/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F81%2F83%2F7e0109a14689a97731ea4418caf8%2F4-telmex-2024-967203-b0e89f0a-87bf-48e6-af9b-a35a412f2ed1-web-2.jpeg",
+        "source": "Expansión",
+        "published": "2026-11-11T18:33:12+00:00"
+      },
+      {
+        "title": "Jalisco espera mañanas frescas y cielo nublado este jueves 12 de noviembre",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/clima-en-jalisco-jueves-12-de-noviembre-la-zona-metropolitana-espera-mananas-frescas-y-cielo-nublado-source-ia/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/GCKFLoV3RfyE3lJKZCwdpQeQYr4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/UC3K2UQSL5ACBCKHFENDDUF7FM.jpg",
         "source": "El Financiero",
-        "published": "2026-11-10T18:56:10+00:00"
+        "published": "2026-11-11T18:17:42+00:00"
       },
       {
-        "title": "Pago del aguinaldo 2026: ¿Quiénes reciben hasta 40 días a partir de HOY?",
-        "link": "https://www.elfinanciero.com.mx/economia/2026/11/10/pago-del-aguinaldo-2026-quienes-reciben-hasta-40-dias-a-partir-de-hoy/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/AWSEfOll1nmmwg-DVXiovBL1cZI=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/ZKB3D2WL7RHG5JAPTHWYGHDQDE.png",
+        "title": "‘Arrebatan’ a cárteles 500 hectáreas del Lago de Pátzcuaro y decomisan 48 toneladas de droga",
+        "link": "https://www.elfinanciero.com.mx/estados/2026/11/11/arrebatan-a-carteles-500-hectareas-del-lago-de-patzcuaro-y-decomisan-48-toneladas-de-droga/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/5BUCRMZKPTtgdyyG4O7q-5qM0p4=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KCMKHDIC4RGKBFN45BSAIOMYA4.jpeg",
         "source": "El Financiero",
-        "published": "2026-11-10T18:54:26+00:00"
+        "published": "2026-11-11T18:06:16+00:00"
       },
       {
-        "title": "Clima en Península de Yucatán: Habrá cielo nublado y temperaturas cálidas este miércoles",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/11/10/clima-en-peninsula-de-yucatan-miercoles-11-de-noviembre-con-maximas-de-36c-source-ia/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/fgQoqQpCa6Nko7zXln1S_vOgyZE=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/L57CCE6P4BCOTADJMCJRAMZUYE.jpg",
+        "title": "\"¡Hoy fío y mañana también!”, la estrategia de las tiendas de barrio para sobrevivir y enfrentar a Neto, 3B y Bara",
+        "link": "https://expansion.mx/empresas/2026/11/11/estrategia-tienditas-esuina-sobrevivir-tiendas-3b-neto-bara",
+        "image": "https://cdn-3.expansion.mx/dims4/default/9cacebe/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F60%2Fa6%2F58186c834713bd58d27288d944cf%2Ftiendas-abarrotes-fian-sobrevivir.jpg",
+        "source": "Expansión",
+        "published": "2026-11-11T18:05:35+00:00"
+      },
+      {
+        "title": "Le ‘vieron la cara’ a la AFAC: Diputados aprueban presupuesto de solo 875 mdp para 2027",
+        "link": "https://www.elfinanciero.com.mx/empresas/2026/11/11/incumplen-promesa-a-afac-tendra-presupuesto-de-875-mpd-para-2027/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/pR-oTKvbvp3-GuGI05UG2wQgcl8=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/MCDQHMN7BZHGXA5URV626UVZAU.jpg",
         "source": "El Financiero",
-        "published": "2026-11-10T18:53:32+00:00"
+        "published": "2026-11-11T18:05:09+00:00"
       },
       {
-        "title": "Pronóstico del clima en Puebla y Morelos: Así estará el tiempo este miércoles 11 de noviembre",
-        "link": "https://www.elfinanciero.com.mx/estados/2026/11/10/clima-en-puebla-y-morelos-miercoles-11-de-noviembre-con-temperaturas-frescas-source-ia/",
-        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/j4cU86as2Abe8I_5WTGr2HA96n0=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/CPDKRUQK2ZCPLGM2ZCF7EHE5II.jpg",
+        "title": "¿Hará frío en CDMX y Edomex? Este es el pronóstico para el jueves 12 de noviembre",
+        "link": "https://www.elfinanciero.com.mx/cdmx/2026/11/11/clima-en-cdmx-y-edomex-jueves-12-de-noviembre-con-mananas-frias-y-cielo-nublado-source-ia/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/DKf0RYrAsfHrqJSKxBmVxC1fO1U=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/KSDNU4GDRREEJDJX22VL5DFHVQ.jpg",
         "source": "El Financiero",
-        "published": "2026-11-10T18:42:03+00:00"
+        "published": "2026-11-11T18:04:48+00:00"
       },
       {
-        "title": "Nvidia cae más de 6% y baja al tercer lugar mundial por valor de mercado",
-        "link": "https://expansion.mx/mercados/2026/11/10/nvidia-cae-mas-de-6-y-baja-al-tercer-lugar-mundial-por-valor-de-mercado",
-        "image": "https://cdn-3.expansion.mx/dims4/default/d5af271/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F23%2F0a%2Fbd8eae0048df8a00094876b28a75%2Fnvidia.jpeg",
-        "source": "Expansión",
-        "published": "2026-11-10T18:04:29+00:00"
+        "title": "Wall Street ‘se emociona’ por próxima OPI de Anthropic; Nasdaq avanza 1.11%",
+        "link": "https://www.elfinanciero.com.mx/mercados/2026/11/11/bmv-wall-street-hoy-11-de-noviembre-de-2026/",
+        "image": "https://elfinanciero-elfinanciero-prod.cdn.arcpublishing.com/resizer/dCyd5gdloM4h4kwEdAJK0OytvIY=/cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/TDT2P6F33RCNZGC65G7KV5W76Q.png",
+        "source": "El Financiero",
+        "published": "2026-11-11T17:58:12+00:00"
       },
       {
-        "title": "Consar alista ajuste regulatorio para Afores; busca evitar malas prácticas y enfrentar amenazas informáticas",
-        "link": "https://expansion.mx/economia/2026/11/10/consar-alista-ajuste-regulatorio-para-afores-busca-evitar-malas-practicas-y-enfrentar-amenazas-informaticas",
-        "image": "https://cdn-3.expansion.mx/dims4/default/f063e40/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2Fce%2F4d%2F22d88d2f4dcab6ac97a389205484%2Fafores-consar.jpeg",
+        "title": "La investigación a Jensen Huang expone un nuevo riesgo para Nvidia: la falta de un CEO sustituto",
+        "link": "https://expansion.mx/tecnologia/2026/11/11/infidelidad-jensen-huang-riesgo-nvidia-falta-de-sustituto",
+        "image": "https://cdn-3.expansion.mx/dims4/default/1258115/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F26%2F17%2Fa348ef6840a6a0e59eb353ca1364%2Fjensen-huang-nvidia-sustituto.jpeg",
         "source": "Expansión",
-        "published": "2026-11-10T17:34:58+00:00"
+        "published": "2026-11-11T17:42:45+00:00"
       },
       {
-        "title": "¿Por qué todo el mundo está descargando GTA VI hoy si aún no se puede jugar?",
-        "link": "https://expansion.mx/tecnologia/2026/11/10/gta-6-descarga-anticipada-disponible",
-        "image": "https://cdn-3.expansion.mx/dims4/default/74c5a8d/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F69%2F14%2Fbf91946a4c5084b54a953cac4716%2Fgta-descarga-anticipada.jpg",
+        "title": "El Buen Fin 2026 llega al gobierno: estos estados darán descuentos en licencias, multas y pagos de servicios",
+        "link": "https://expansion.mx/finanzas-personales/2026/11/11/buen-fin-2026-descuentos-en-licencias-multas-y-servicios",
+        "image": "https://cdn-3.expansion.mx/dims4/default/808c73c/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F8c%2F0b%2F0f24b7d3406482d1b5cb1f3d92d4%2Fel-buen-fin-2026-descuentos-en-multas-y-tramites.jpg",
         "source": "Expansión",
-        "published": "2026-11-10T17:20:08+00:00"
+        "published": "2026-11-11T17:33:31+00:00"
       },
       {
-        "title": "Segob ofrece trabajo a administradores públicos con sueldo de 118,000 pesos mensuales: estos son los requisitos",
-        "link": "https://expansion.mx/finanzas-personales/2026/11/10/segob-da-trabajo-a-administradores-con-sueldo-de-118-000",
-        "image": "https://cdn-3.expansion.mx/dims4/default/ba2e0f3/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F22%2F3b%2Fc2c4a4704a62967de68cf72796ea%2Foferta-de-trabajo-de-segob.jpg",
+        "title": "Pug Seal suma tres años con Llave Michelin y abre su capital a inversionistas",
+        "link": "https://expansion.mx/bespoke-ad/2026/11/11/pug-seal-suma-tres-anos-con-llave-michelin-y-abre-su-capital-a-inversionistas",
+        "image": "https://cdn-3.expansion.mx/dims4/default/9aa48f9/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F5e%2F1e%2F5cd375714bcc842f8aa5667979c3%2Fallan-poe-entrada.jpg",
         "source": "Expansión",
-        "published": "2026-11-10T17:18:55+00:00"
+        "published": "2026-11-11T15:39:35+00:00"
       },
       {
-        "title": "Tras el colapso de Ueno Bank, Banco Central de Paraguay reporta devolución al 93% de clientes",
-        "link": "https://expansion.mx/economia/2026/11/10/banco-central-paraguay-ueno-bank-devolucion-ahorros",
-        "image": "https://cdn-3.expansion.mx/dims4/default/9997467/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F52%2F0e%2F4639b87749b0bf9fec48134a1cda%2Fueno-bank-paraguay-clientes-recuperan-ahorros.jpeg",
+        "title": "Tienen 30,000 sucursales y venden millones: los 3 empresarios que disputan el negocio a las tienditas de la esquina",
+        "link": "https://expansion.mx/empresas/2026/11/11/empresarios-que-disputan-negocio-a-tienditas-de-la-esquina",
+        "image": "https://cdn-3.expansion.mx/dims4/default/5cd97b8/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F7a%2F37%2F23e8d731400ca6cd4e082ee582cd%2Fhatoum-fernadez-chedraui.png",
         "source": "Expansión",
-        "published": "2026-11-10T17:04:09+00:00"
-      },
-      {
-        "title": "La IA agente liderará la próxima gran transformación digital",
-        "link": "https://expansion.mx/tecnologia/2026/11/10/la-ia-agente-liderara-la-proxima-gran-transformacion-digital",
-        "image": "https://cdn-3.expansion.mx/dims4/default/72c337e/2147483647/resize/1280x/quality/90/?url=https%3A%2F%2Fcdn-3.expansion.mx%2F29%2F6d%2Fb71761c94c45904ef0178554a2cd%2Fericsson.jpg",
-        "source": "Expansión",
-        "published": "2026-11-10T16:54:09+00:00"
+        "published": "2026-11-11T14:51:21+00:00"
       }
     ],
     "guatemala": [
       {
-        "title": "¿Buscas empleo? Feria ofrecerá más de mil plazas y 300 becas de inglés en Guatemala",
-        "link": "https://lahora.gt/lh-economia/jveliz/2026/11/10/buscas-empleo-feria-ofrecera-mas-de-mil-plazas-y-300-becas-de-ingles-en-guatemala/",
+        "title": "Diputados pedirán mayor seguridad en el Congreso tras protesta de militares retirados",
+        "link": "https://lahora.gt/nacionales/kmonzon/2026/11/11/diputados-pediran-mayor-seguridad-en-el-congreso-tras-protesta-de-militares-retirados-now/",
         "image": null,
         "source": "La Hora",
-        "published": "2026-11-10T19:15:38+00:00"
+        "published": "2026-11-11T19:13:16+00:00"
       },
       {
-        "title": "Autoridades confirman la captura en EE. UU. del yerno de «Don Darío», líder de Los Huistas",
-        "link": "https://lahora.gt/nacionales/hloarca/2026/11/10/autoridades-confirman-la-captura-en-ee-uu-del-yerno-de-don-dario-lider-de-los-huistas-now/",
+        "title": "Inab y Conap intensificarán controles durante época navideña para frenar el comercio ilegal del pinabete",
+        "link": "https://lahora.gt/nacionales/dguzman/2026/11/11/inab-y-conap-intensificaran-controles-durante-epoca-navidena-para-frenar-el-comercio-ilegal-de-pinabete-now/",
         "image": null,
         "source": "La Hora",
-        "published": "2026-11-10T19:14:12+00:00"
+        "published": "2026-11-11T18:58:51+00:00"
       },
       {
-        "title": "DGT: resolución de la CC se emite ante avances concretos del SLV",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/dgt-resolucion-de-la-cc-se-emite-ante-avances-concretos-del-slv/",
+        "title": "Importaciones que vengan del USDA para asistencia social quedan exentas de impuestos",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/importaciones-que-vengan-del-usda-para-asistencia-social-quedan-exentas-de-impuestos/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-11-10T18:59:35+00:00"
+        "published": "2026-11-11T18:53:25+00:00"
       },
       {
-        "title": "CSJ pide a diputados que el Decreto 23-2026 sobre prisión preventiva entre en vigor en noviembre de 2027",
-        "link": "https://lahora.gt/nacionales/kmonzon/2026/11/10/csj-pide-a-diputados-que-el-decreto-23-2026-sobre-prision-preventiva-entre-en-vigor-en-noviembre-de-2027-now/",
+        "title": "Guatemala exonera del IVA y aranceles por 10 años las importaciones del Departamento de Agricultura de EE. UU.",
+        "link": "https://www.prensalibre.com/economia/guatemala-exonera-del-iva-y-aranceles-por-10-anos-las-importaciones-del-departamento-de-agricultura-de-ee-uu/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-11-11T18:50:02+00:00"
+      },
+      {
+        "title": "Sheynnis Palacios, Miss Universe 2023, será la invitada especial por los 500 años de Ciudad Vieja",
+        "link": "https://lahora.gt/nacionales/hloarca/2026/11/11/sheynnis-palacios-miss-universe-2023-sera-la-invitada-especial-por-los-500-anos-de-ciudad-vieja-now/",
         "image": null,
         "source": "La Hora",
-        "published": "2026-11-10T18:54:01+00:00"
+        "published": "2026-11-11T18:49:02+00:00"
       },
       {
-        "title": "Papa León XIV oficia misa multitudinaria en Córdoba: «Que nos traiga paz, unión y esperanza»",
-        "link": "https://lahora.gt/internacionales/amtorres/2026/11/10/papa-leon-xiv-oficia-misa-multitudinaria-en-cordoba-que-nos-traiga-paz-union-y-esperanza-now/",
+        "title": "Homenaje a Miguel Ángel Asturias en la Universidad Popular",
+        "link": "https://www.prensalibre.com/vida/escenario/homenaje-a-miguel-angel-asturias-en-la-universidad-popular/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-11-11T18:17:06+00:00"
+      },
+      {
+        "title": "Abren inscripciones para magisterio con especialidad: Este es el listado de establecimientos oficiales",
+        "link": "https://lahora.gt/nacionales/amtorres/2026/11/11/abren-inscripciones-para-magisterio-con-especialidad-este-es-el-listado-de-establecimientos-oficiales/",
         "image": null,
         "source": "La Hora",
-        "published": "2026-11-10T18:42:07+00:00"
+        "published": "2026-11-11T18:16:23+00:00"
       },
       {
-        "title": "Karin Herrera participa en cumbre regional sobre inversión en primera infancia",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/karin-herrera-participa-en-cumbre-regional-sobre-inversion-en-primera-infancia/",
-        "image": null,
-        "source": "Diario de Centroamérica",
-        "published": "2026-11-10T18:22:36+00:00"
-      },
-      {
-        "title": "“Los gigantes no existen” llega a la Sala de Cine del Centro Cultural de España en Guatemala",
-        "link": "https://www.prensalibre.com/vida/escenario/los-gigantes-no-existen-llega-a-la-sala-de-cine-del-centro-cultural-de-espana-en-guatemala/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-11-10T18:18:23+00:00"
-      },
-      {
-        "title": "“Se lo hicieron a Donald Trump y fracasaron”: Pete Hegseth rechaza el intento de destitución",
-        "link": "https://www.prensalibre.com/internacional/se-lo-hicieron-a-donald-trump-y-fracasaron-pete-hegseth-rechaza-el-intento-de-destitucion/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-11-10T18:15:59+00:00"
-      },
-      {
-        "title": "Francia entregará a Guatemala bastón indígena que perteneció a Miguel Ángel Asturias",
-        "link": "https://lahora.gt/nacionales/dguzman/2026/11/10/francia-entregara-a-guatemala-baston-indigena-que-pertenecio-a-miguel-angel-asturias-now/",
+        "title": "Construcción de institutos regionales se retrasa hasta diciembre por recepción de ofertas en Guatecompras",
+        "link": "https://lahora.gt/nacionales/kjordan/2026/11/11/construccion-de-institutos-regionales-se-retrasa-hasta-diciembre-por-recepcion-de-ofertas-en-guatecompras-now/",
         "image": null,
         "source": "La Hora",
-        "published": "2026-11-10T18:06:42+00:00"
+        "published": "2026-11-11T18:08:22+00:00"
       },
       {
-        "title": "“Estoy muy preocupado porque no tengo noticias de mi dinero”: los millones de paraguayos afectados por la crisis del Ueno Bank que aún esperan la devolución de sus ahorros",
-        "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/estoy-muy-preocupado-porque-no-tengo-noticias-de-mi-dinero-los-millones-de-paraguayos-afectados-por-la-crisis-del-ueno-bank-que-aun-esperan-la-devolucion-de-sus-ahorros/",
+        "title": "¿Por qué sigue tosiendo semanas después de un resfriado y qué puede hacer al respecto?",
+        "link": "https://www.prensalibre.com/vida/salud-y-familia/por-que-sigue-tosiendo-semanas-despues-de-un-resfriado-y-que-puede-hacer-al-respecto/",
         "image": null,
         "source": "Prensa Libre — Economía",
-        "published": "2026-11-10T18:01:12+00:00"
+        "published": "2026-11-11T18:05:00+00:00"
       },
       {
-        "title": "Diputados buscarían aprobar de urgencia nacional la ley de cine tras eliminar cobro a boletos aéreos",
-        "link": "https://lahora.gt/nacionales/dleon/2026/11/10/diputados-buscarian-aprobar-de-urgencia-nacional-la-ley-de-cine-tras-eliminar-cobro-a-boletos-aereos-now/",
+        "title": "De Trump a Argentina: Tensiones con Irán por el programa nuclear y la declaración de terrorismo",
+        "link": "https://www.prensalibre.com/internacional/de-trump-a-argentina-tensiones-con-iran-por-el-programa-nuclear-y-la-declaracion-de-terrorismo/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-11-11T18:02:21+00:00"
+      },
+      {
+        "title": "Más alegría a los hogares guatemaltecos con ENERGUATE",
+        "link": "https://www.prensalibre.com/economia/vida-empresarial/mas-alegria-a-los-hogares-guatemaltecos-con-energuate/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-11-11T17:52:21+00:00"
+      },
+      {
+        "title": "Instituto Guatemalteco de Cine: estas son las funciones que tendrá la entidad creada por la Ley de Cine",
+        "link": "https://lahora.gt/nacionales/dguzman/2026/11/11/instituto-guatemalteco-de-cine-estas-son-las-funciones-que-tendra-la-entidad-creada-por-la-ley-de-cine-now/",
         "image": null,
         "source": "La Hora",
-        "published": "2026-11-10T17:52:55+00:00"
+        "published": "2026-11-11T17:52:17+00:00"
       },
       {
-        "title": "La Conmebol ratifica apoyo a Infantino tras conocer intención de Arsene Wenger",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/la-conmebol-ratifica-apoyo-a-infantino-tras-conocer-intencion-de-arsene-wenger/",
+        "title": "Sótanos conectados por túneles, drones y una red de vigilancia de 5km: así se protegían “los Mamás” en Cobán",
+        "link": "https://www.prensalibre.com/guatemala/justicia/sotanos-conectados-por-tuneles-drones-y-una-red-de-vigilancia-de-5km-asi-se-protegian-los-mamas-en-coban/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-11-11T17:37:56+00:00"
+      },
+      {
+        "title": "Sumo pontífice se despide de Argentina: \"Me he sentido como en casa\"",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/leon-xiv-se-despide-de-argentina-me-he-sentido-como-en-casa/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-11-10T17:20:15+00:00"
+        "published": "2026-11-11T17:13:42+00:00"
       },
       {
-        "title": "CC suspende provisionalmente la instalación de limitadores de velocidad en Guatemala y la DGT anuncia acciones legales",
-        "link": "https://www.prensalibre.com/guatemala/comunitario/cc-suspende-provisionalmente-la-instalacion-de-limitadores-de-velocidad-en-guatemala-y-la-dgt-anuncia-acciones-legales-breaking/",
+        "title": "Accidente en pista de Alta Verapaz: aeronave despegaba cuando ocurrió percance con motocicleta",
+        "link": "https://www.prensalibre.com/guatemala/sucesos/accidente-en-pista-de-alta-verapaz-aeronave-despegaba-cuando-ocurrio-percance-con-motocicleta-breaking/",
         "image": null,
         "source": "Prensa Libre — Economía",
-        "published": "2026-11-10T17:16:45+00:00"
+        "published": "2026-11-11T17:03:18+00:00"
       },
       {
-        "title": "El papa bendice a la ciudad argentina de Córdoba",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/el-papa-bendice-a-la-ciudad-argentina-de-cordoba/",
+        "title": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
+        "link": "https://www.prensalibre.com/economia/bbc-news-mundo-economia/en-imagenes-decenas-de-detenidos-en-la-primera-huelga-general-en-espana-en-14-anos/",
+        "image": null,
+        "source": "Prensa Libre — Economía",
+        "published": "2026-11-11T17:02:04+00:00"
+      },
+      {
+        "title": "Arévalo sanciona ley para poner en marcha el MetroRiel",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/arevalo-sanciona-ley-para-metroriel/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-11-10T17:12:59+00:00"
+        "published": "2026-11-11T17:00:00+00:00"
       },
       {
-        "title": "El Departamento de Estado cuestiona la ofensiva de El Salvador en Haití",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/el-departamento-de-estado-cuestiona-la-ofensiva-de-el-salvador-en-haiti/",
+        "title": "León XIV regala otra Rosa de Oro a la Virgen de Luján, la \"patroncita morena\" de Argentina",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/leon-xiv-regala-otra-rosa-de-oro-a-la-virgen-de-lujan-la-patroncita-morena-de-argentina/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-11-10T17:00:42+00:00"
+        "published": "2026-11-11T16:54:08+00:00"
       },
       {
-        "title": "Arsene Wenger se plantea presentarse a las elecciones de la FIFA contra Infantino",
-        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/arsene-wenger-se-plantea-presentarse-a-las-elecciones-de-la-fifa-contra-infantino/",
+        "title": "DGAC habilita herramienta para vuelos seguros de drones",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/dgac-habilita-herramienta-para-vuelos-seguros-de-drones/",
         "image": null,
         "source": "Diario de Centroamérica",
-        "published": "2026-11-10T16:47:37+00:00"
+        "published": "2026-11-11T16:15:00+00:00"
       },
       {
-        "title": "Caso Agua Mágica: tribunal autoriza a Roxana Baldetti el uso de dispositivo de control telemático",
-        "link": "https://www.prensalibre.com/guatemala/caso-agua-magica-tribunal-autoriza-a-roxana-baldetti-el-uso-de-dispositivo-de-control-telematico-breaking/",
+        "title": "🔴 En vivo | Presidente supervisa proyectos de desarrollo en Santa Rosa",
+        "link": "https://dca.gob.gt/noticias-guatemala-diario-centro-america/%f0%9f%94%b4-en-vivo-presidente-supervisa-proyectos-de-desarrollo-en-santa-rosa/",
         "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-11-10T16:38:31+00:00"
-      },
-      {
-        "title": "De pastor a detenido por presuntos vínculos con la Mara 18: El caso que se investiga en Honduras",
-        "link": "https://www.prensalibre.com/internacional/de-pastor-a-detenido-por-presuntos-vinculos-con-la-mara-18-el-caso-que-se-investiga-en-honduras/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-11-10T16:34:22+00:00"
-      },
-      {
-        "title": "Hijo de Arnold Schwarzenegger y de madre guatemalteca destaca en su primera competencia profesional de culturismo natural",
-        "link": "https://www.prensalibre.com/vida/escenario/hijo-de-arnold-schwarzenegger-y-de-madre-guatemalteca-destaca-en-su-primera-competencia-profesional-de-culturismo-natural/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-11-10T16:16:48+00:00"
-      },
-      {
-        "title": "¿Por qué Canadá concentra a sus estrellas en México antes de visitar a Guatemala en la Liga de Naciones?",
-        "link": "https://www.prensalibre.com/deportes/futbol-nacional/por-que-canada-concentra-a-sus-estrellas-en-mexico-antes-de-visitar-a-guatemala-en-la-liga-de-naciones-breaking/",
-        "image": null,
-        "source": "Prensa Libre — Economía",
-        "published": "2026-11-10T16:07:40+00:00"
+        "source": "Diario de Centroamérica",
+        "published": "2026-11-11T16:15:00+00:00"
       }
     ],
     "elsalvador": [
       {
-        "title": "«Muy especial»: Jobe Bellingham disfruta con su hermano Jude en Inglaterra",
-        "link": "https://diarioelsalvador.com/dedeportes/muy-especial-jobe-bellingham-disfruta-con-su-hermano-jude-en-inglaterra/874526/",
+        "title": "Nueve de cada 10 dólares del presupuesto de Defensa se irán en salarios y bonos",
+        "link": "https://www.eldiariodehoy.com/noticias/nacionales/presupuesto-ministerio-defensa-salarios/100134/2026/",
+        "image": null,
+        "source": "El Diario de Hoy",
+        "published": "2026-11-11T19:00:00+00:00"
+      },
+      {
+        "title": "La Selecta femenina goleó 17-0 a Belice, en el torneo Uncaf Sub-19",
+        "link": "https://diarioelsalvador.com/dedeportes/la-selecta-femenina-goleo-17-0-a-belice-en-el-torneo-uncaf-sub-19/874930/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-11-10T18:48:46+00:00"
+        "published": "2026-11-11T18:43:56+00:00"
       },
       {
-        "title": "Crisis del fútbol de C.A.: infraestructura arcaica, fuga de talento y el atraso frente al Caribe",
-        "link": "https://www.eldiariodehoy.com/deportes/crisis-futbol-centroamerica-caribe/99980/2026/",
-        "image": null,
-        "source": "El Diario de Hoy",
-        "published": "2026-11-10T18:00:00+00:00"
-      },
-      {
-        "title": "La F1 da luz verde a los GP de Qatar y Abu Dabi, amenazados por la guerra",
-        "link": "https://diarioelsalvador.com/dedeportes/la-f1-da-luz-verde-a-los-gp-de-qatar-y-abu-dabi-amenazados-por-la-guerra/874520/",
+        "title": "Irán amenaza con atacar bases de EE. UU. en Europa si se utilizan para bombardeos contra Teherán",
+        "link": "https://diarioelsalvador.com/deplaneta/iran-amenaza-con-atacar-bases-de-ee-uu-en-europa-si-se-utilizan-para-bombardeos-contra-teheran/874926/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-11-10T17:59:27+00:00"
+        "published": "2026-11-11T18:12:30+00:00"
       },
       {
-        "title": "Paraguay anuncia medidas de protección a unos 7,000 trabajadores afectados por crisis bancaria",
-        "link": "https://diarioelsalvador.com/deplaneta/paraguay-anuncia-medidas-de-proteccion-a-unos-7000-trabajadores-afectados-por-crisis-bancaria/874512/",
+        "title": "La ciberseguridad abre nuevas oportunidades de crecimiento para las pymes salvadoreñas",
+        "link": "https://www.eldiariodehoy.com/negocios/la-ciberseguridad-abre-nuevas-oportunidades-de-crecimiento-para-las-pymes-salvadorenas/99485/2026/",
+        "image": null,
+        "source": "El Diario de Hoy",
+        "published": "2026-11-11T18:12:00+00:00"
+      },
+      {
+        "title": "Tres millones de fieles en última misa de León XIV en Luján, Argentina",
+        "link": "https://www.eldiariodehoy.com/noticias/internacionales/tres-millones-de-fieles-en-ultima-misa-de-leon-xiv-en-lujan-argentina/100143/2026/",
+        "image": null,
+        "source": "El Diario de Hoy",
+        "published": "2026-11-11T18:08:06+00:00"
+      },
+      {
+        "title": "Metapán firma un triunfo de carácter, remonta a Platense y amanece en zona de semis",
+        "link": "https://www.eldiariodehoy.com/deportes/metapan-platense-futbol-semifinales/100125/2026/",
+        "image": null,
+        "source": "El Diario de Hoy",
+        "published": "2026-11-11T18:00:00+00:00"
+      },
+      {
+        "title": "Daddy Yankee recibe emotivo homenaje por sus 30 años de carrera en los Latin Grammy",
+        "link": "https://www.eldiariodehoy.com/arte-y-cultura/daddy-yankee-homenaje-latin-grammy/100135/2026/",
+        "image": null,
+        "source": "El Diario de Hoy",
+        "published": "2026-11-11T17:50:14+00:00"
+      },
+      {
+        "title": "«El Salvador: cuando el miedo cambió de bando» se estrena en cines",
+        "link": "https://diarioelsalvador.com/dediversion/el-salvador-cuando-el-miedo-cambio-de-bando-se-estrena-en-cines/874905/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-11-10T17:33:53+00:00"
+        "published": "2026-11-11T17:49:33+00:00"
       },
       {
-        "title": "Cinco avances que están marcando la evolución de las computadoras",
-        "link": "https://diarioelsalvador.com/deinnovacion/cinco-avances-que-estan-marcando-la-evolucion-de-las-computadoras/874504/",
+        "title": "La ciberseguridad, un factor clave para las pymes",
+        "link": "https://diarioelsalvador.com/dedinero/la-ciberseguridad-un-factor-clave-para-las-pymes/874914/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-11-10T17:28:29+00:00"
+        "published": "2026-11-11T17:44:05+00:00"
       },
       {
-        "title": "Bukele celebra destrucción de guarida de bandas por tropas salvadoreñas en Haití",
-        "link": "https://www.eldiariodehoy.com/noticias/nacionales/bukele-celebra-destruccion-de-guarida-de-bandas-por-tropas-salvadorenas-en-haiti/99981/2026/",
-        "image": null,
-        "source": "El Diario de Hoy",
-        "published": "2026-11-10T17:19:23+00:00"
-      },
-      {
-        "title": "Asesinan a dos candidatos en ataque armado en Ecuador a días de las elecciones seccionales",
-        "link": "https://diarioelsalvador.com/deplaneta/asesinan-a-dos-candidatos-en-ataque-armado-en-ecuador-a-dias-de-las-elecciones-seccionales/874505/",
+        "title": "Primera edición de Krea entrega $120,000 a startups nacionales",
+        "link": "https://diarioelsalvador.com/dedinero/primera-edicion-de-krea-entrega-120000-a-startups-nacionales/874906/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-11-10T17:12:21+00:00"
+        "published": "2026-11-11T17:37:54+00:00"
       },
       {
-        "title": "Eric Calvillo vuelve a la Selecta después de tres años",
-        "link": "https://diarioelsalvador.com/dedeportes/eric-calvillo-vuelve-a-la-selecta-desupues-de-tres-anos/874495/",
+        "title": "«Dos Escuelas por Día» ha reconstruido 1,077 centros educativos en El Salvador",
+        "link": "https://diarioelsalvador.com/depais/dos-escuelas-por-dia-ha-reconstruido-1077-centros-educativos-en-el-salvador/874898/",
         "image": null,
         "source": "Diario El Salvador",
-        "published": "2026-11-10T17:00:01+00:00"
+        "published": "2026-11-11T17:20:58+00:00"
       },
       {
-        "title": "Jorge Méndez trabaja con la Selección y apunta a la serie ante San Martín",
-        "link": "https://www.eldiariodehoy.com/deportes/jorge-mendez-selecta-san-martin/99969/2026/",
+        "title": "Muere Stacy Keach, el inolvidable rostro del detective Mike Hammer, a los 85 años",
+        "link": "https://www.eldiariodehoy.com/arte-y-cultura/muere-stacy-keach-mike-hammer-cbs/100121/2026/",
         "image": null,
         "source": "El Diario de Hoy",
-        "published": "2026-11-10T16:58:06+00:00"
+        "published": "2026-11-11T17:06:25+00:00"
       },
       {
-        "title": "Volkswagen Amarok: potencia y versatilidad para quienes buscan ir más allá",
-        "link": "https://www.eldiariodehoy.com/negocios/volkswagen-amarok-potencia-y-versatilidad-para-quienes-buscan-ir-mas-alla/99572/2026/",
+        "title": "Habilitan entrega de ahorros a depositantes de COSAVI con hasta $150,000",
+        "link": "https://www.eldiariodehoy.com/noticias/nacionales/habilitan-entrega-ahorros-cosavi/100122/2026/",
         "image": null,
         "source": "El Diario de Hoy",
-        "published": "2026-11-10T16:51:29+00:00"
+        "published": "2026-11-11T17:00:00+00:00"
       },
       {
-        "title": "El papa pide a los argentinos en misa multitudinaria en Córdoba: «¡Vayan y sean santos!»",
-        "link": "https://www.eldiariodehoy.com/noticias/internacionales/el-papa-pide-a-los-argentinos-en-misa-multitudinaria-en-cordoba-vayan-y-sean-santos/99947/2026/",
+        "title": "Fidel Zavala: 15 años de prisión por $4,025. ¿Estafa o una controversia de naturaleza civil?",
+        "link": "https://www.eldiariodehoy.com/opinion/fidel-zavala-15-anos-de-prision-por-4025-estafa-o-una-controversia-de-naturaleza-civil/100123/2026/",
         "image": null,
         "source": "El Diario de Hoy",
-        "published": "2026-11-10T16:41:36+00:00"
-      },
-      {
-        "title": "Dos sismos sacuden la costa de Guatemala y se perciben en El Salvador",
-        "link": "https://www.eldiariodehoy.com/noticias/nacionales/dos-sismos-sacuden-la-costa-de-guatemala-y-se-perciben-en-el-salvador/99971/2026/",
-        "image": null,
-        "source": "El Diario de Hoy",
-        "published": "2026-11-10T16:28:00+00:00"
-      },
-      {
-        "title": "Firpo busca sellar el liderato en su visita a Cacahuatique por una fecha crucial en Primera",
-        "link": "https://www.eldiariodehoy.com/deportes/firpo-liderato-cacahuatique-futbol/99966/2026/",
-        "image": null,
-        "source": "El Diario de Hoy",
-        "published": "2026-11-10T15:30:57+00:00"
-      },
-      {
-        "title": "Bandas exigen $5,000 por documentos falsos para pasar a EE.UU. ante bloqueo en río Grande",
-        "link": "https://www.eldiariodehoy.com/noticias/nacionales/coyotes-cobran-hasta-5000-por-documentos-falsos-para-cruzar-a-ee-uu-ante-el-bloqueo-en-el-rio-grande/99862/2026/",
-        "image": null,
-        "source": "El Diario de Hoy",
-        "published": "2026-11-10T15:25:49+00:00"
+        "published": "2026-11-11T16:44:34+00:00"
       },
       {
         "title": "¿Qué cambia para las microempresas en El Salvador con la reforma aprobada?",
